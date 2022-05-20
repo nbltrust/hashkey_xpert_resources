@@ -1,0 +1,359 @@
+{
+    "20038_/api/v1/register:POST": {
+        "zh": "手机号码已存在",
+        "en": "Phone number already exists"
+      },
+    "20037_/api/v1/register:POST": {
+        "zh": "邮箱已存在",
+        "en": "Email already exists"
+      },
+    "20035_/api/v1/register:POST": {
+        "zh": "发送已达当日上限",
+        "en": "Daily limit reached"
+      },
+    "20039_/api/v1/register:POST": {
+        "zh": "邮箱验证码发送次数已达上限",
+        "en": "Email verification has reached the upper limit"
+      },
+    "20014_/api/v1/register:POST": {
+        "zh": "发送间隔太短,请1分钟后再试",
+        "en": "Frequent request detected, retry 1 min later"
+      },
+    "20040_/api/v1/register:POST": {
+        "zh": "发送间隔太短,请1分钟后再试",
+        "en": "Frequent request detected, retry 1 min later"
+      },
+    "20041_/api/v1/register:POST": {
+        "zh": "发送短信失败,请重试",
+        "en": "Send sms error, please retry"
+      },
+    "20018_/api/v1/register:POST": {
+        "zh": "发送邮件失败,请重试",
+        "en": "Send email error, please retry"
+      },
+    "10003_/api/v1/register/verify:POST": {
+        "zh": "验证失败,请稍后再试",
+        "en": "Authentication failed, please retry"
+      },
+    "20013_/api/v1/register/verify:POST": {
+        "zh": "验证码错误",
+        "en": "Incorrect code"
+      },
+    "20042_/api/v1/register/verify:POST": {
+        "zh": "验证码错误多次,请重发",
+        "en": "Incorrect code, please get a new one"
+      },
+    "20017_/api/v1/register/verify:POST": {
+        "zh": "验证码过期,请重发",
+        "en": "Code expired, please get a new one"
+      },
+    "0_/api/v1/account/authsecret:PUT": {
+        "zh": "谷歌认证成功",
+        "en": "Activated"
+      },
+    "20003_/api/v1/account/authsecret:PUT": {
+        "zh": "验证码错误",
+        "en": "Incorrect code"
+      },
+    "10003_/api/v1/account/authsecret:PUT": {
+        "zh": "谷歌认证失败",
+        "en": "Activation Failed"
+      },
+    "20022_/api/v1/session:POST": {
+        "zh": "帐号或密码不正确",
+        "en": "User name or Password is incorrect"
+      },
+    "0_/api/v1/session:POST": {
+        "zh": "登录成功",
+        "en": "Logged in"
+      },
+    "20013_/api/v1/account/verify-authcode:PUT": {
+        "zh": "验证码错误",
+        "en": "Incorrect code"
+      },
+    "20042_/api/v1/account/verify-authcode:PUT": {
+        "zh": "验证码错误多次,请重发",
+        "en": "Incorrect code, please get a new one"
+      },
+    "20017_/api/v1/account/verify-authcode:PUT": {
+        "zh": "验证码过期,请重发",
+        "en": "Code expired, please get a new one"
+      },
+    "20001_/api/v1/account/password/reset:POST": {
+        "zh": "用户不存在",
+        "en": "User no exists"
+      },
+    "20022_/api/v1/account/password:PUT": {
+        "zh": "原密码不正确",
+        "en": "Password is incorrect"
+      },
+    "20036_/api/v1/account/password:PUT": {
+        "zh": "新密码不能和旧密码相同",
+        "en": "The new password can not be the same as the original one"
+      },
+    "0_/api/v1/account/password:PUT": {
+        "zh": "修改成功",
+        "en": "Updated Success"
+      },
+    "10003_/api/v1/account/password:PUT": {
+        "zh": "修改失败",
+        "en": "Updated Failed"
+      },
+    "0_/api/v1/account/phone:POST": {
+        "zh": "手机认证成功",
+        "en": "Verified"
+      },
+    "10003_/api/v1/account/phone:POST": {
+        "zh": "手机认证失败",
+        "en": "Verification Failed"
+      },
+    "0_/api/v1/account/phone:PUT": {
+        "zh": "手机修改成功",
+        "en": "Updated Success"
+      },
+    "10003_/api/v1/account/phone:PUT": {
+        "zh": "手机修改失败",
+        "en": "Updated Failed"
+      },
+    "0_/api/v1/account/email:POST": {
+        "zh": "邮箱认证成功",
+        "en": "Verified"
+      },
+    "10003_/api/v1/account/email:POST": {
+        "zh": "邮箱认证失败",
+        "en": "Verification Failed"
+      },
+    "0_/api/v1/account/email:PUT": {
+        "zh": "邮箱修改成功",
+        "en": "Updated Success"
+      },
+    "10003_/api/v1/account/email:PUT": {
+        "zh": "邮箱修改失败",
+        "en": "Updated Failed"
+      },
+    "20002_/api/v1/kyc/application:PUT": {
+        "zh": "证件号码已存在,请检查后重新填写",
+        "en": "ID number has been existed, please check it and refill later"
+      },
+    "10003_/api/v1/kyc/file:POST": {
+        "zh": "图片上传失败",
+        "en": "Image upload failed"
+      },
+    "20009_/api/v1/kyc/file:POST": {
+        "zh": "文件上传最大不超过10M",
+        "en": "Upload image within 10M"
+      },
+    "20044_/api/v1/kyc/file:POST": {
+        "zh": "请以jpg、png格式上传",
+        "en": "Upload image in jpg or png format"
+      },
+    "0_/api/v1/kyc/application:PUT": {
+        "zh": "您的认证信息已提交,预计将于1-3个工作日内完成,请耐心等候",
+        "en": "The information of your Identity certification has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently"
+      },
+    "0_/api/v1/kyc/fiat:POST": {
+        "zh": "您的法币结算信息已提交,预计将于1-3个工作日内完成,请耐心等候",
+        "en": "The information of your Fiat Settlement has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently"
+      },
+    "0_/api/v1/kyc/fiat/{fiatID}:PUT": {
+        "zh": "您的法币结算信息已提交,预计将于1-3个工作日内完成,请耐心等候",
+        "en": "The information of your Fiat Settlement has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently"
+      },
+    "20002_/api/v1/kyc/fiat:POST": {
+        "zh": "银行账号已存在,请检查后重新填写",
+        "en": "Account number has been existed, please check it and refill later"
+      },
+    "20002_/api/v1/kyc/fiat/{fiatID}:PUT": {
+        "zh": "证件号码已存在,请检查后重新填写",
+        "en": "ID number has been existed, please check it and refill later"
+      },
+    "20012_/api/v1/kyc/fiat:POST": {
+        "zh": "银行卡数量达到上限,无法添加,如需新增,请先将已认证的银行卡删除",
+        "en": "The number of bank cards has reached the upper limit and cannot be added. If you need, delete the verified bank cards first."
+      },
+    "0_/api/v1/kyc/fiat/{fiatID}:DELETE": {
+        "zh": "删除成功",
+        "en": "Delete Success"
+      },
+    "10003_/api/v1/kyc/fiat/{fiatID}:DELETE": {
+        "zh": "删除失败,请重试",
+        "en": "Delete failed, try again"
+      },
+    "20004_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
+        "zh": "超过您所拥有的数量总额",
+        "en": "Your withdrawal amount has exceeded the available balance."
+      },
+    "20033_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
+        "zh": "金额超过了钱包风控中的每笔限额。",
+        "en": "The amount exceeds the single transaction limit of spending in wallet's policy."
+      },
+    "20031_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
+        "zh": "金额超过了钱包风控中的每小时限额",
+        "en": "The amount exceeds the hourly limit of spending in wallet's policy."
+      },
+    "20032_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
+        "zh": "金额超过了钱包风控中的每日限额",
+        "en": "The amount exceeds the daily limit of spending in wallet's policy"
+      },
+    "10001_/api/v1/wallet/{id}/asset/{assetname}/verify-address:GET": {
+        "zh": "转账地址格式错误",
+        "en": "Incorrect address format"
+      },
+    "10001_/api/v1/company/addressbook/verify-address:POST": {
+        "zh": "地址格式错误",
+        "en": "Incorrect address format"
+      },
+    "20002_/api/v1/company/addressbook:POST": {
+        "zh": "地址已存在",
+        "en": "Address already exists"
+      },
+    "0_/api/v1/company/addressbook:POST": {
+        "zh": "地址添加成功",
+        "en": "Address added successfully"
+      },
+    "10003_/api/v1/company/addressbook:POST": {
+        "zh": "地址添加失败",
+        "en": "Address added failed"
+      },
+    "20044_/api/v1/funding/transfer:POST": {
+        "zh": "划转失败,接收钱包目前还没有支持该币种",
+        "en": "Failed to transfer, the receiving wallet does not support this coin currently"
+      },
+    "20004_/api/v1/funding/transfer:POST": {
+        "zh": "超过您所拥有的数量总额",
+        "en": "Your transfer amount has exceeded the available balance"
+      },
+    "20027_/api/v1/funding/transfer:POST": {
+        "zh": "用户已被冻结,无法转账",
+        "en": "Users have been frozen,cannot to transfer"
+      },
+    "20045_/api/v1/funding/transfer:POST": {
+        "zh": "接收钱包不可用",
+        "en": "Receiving wallet is unavailable"
+      },
+    "0_/api/v1/funding/transfer:POST": {
+        "zh": "转账成功",
+        "en": "Transfer success"
+      },
+    "20008_/api/v1/funding/transfer:POST": {
+        "zh": "钱包密码错误",
+        "en": "Wallet password error"
+      },
+    "20015_/api/v1/funding/transfer:POST": {
+        "zh": "转账失败",
+        "en": "Transfer failed"
+      },
+    "20016_/api/v1/funding/transfer:POST": {
+        "zh": "转账失败",
+        "en": "Transfer failed"
+      },
+    "20031_/api/v1/funding/transfer:POST": {
+        "zh": "转账失败",
+        "en": "Transfer failed"
+      },
+    "20032_/api/v1/funding/transfer:POST": {
+        "zh": "转账失败",
+        "en": "Transfer failed"
+      },
+    "20033_/api/v1/funding/transfer:POST": {
+        "zh": "转账失败",
+        "en": "Transfer failed"
+      },
+    "20046_/api/v1/funding/transfer:POST": {
+          "zh": "转账申请审核中",
+          "en": "Transfer application under review"
+        },
+      "20013_/api/v1/account/password:PUT": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20042_/api/v1/account/password:PUT": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20017_/api/v1/account/password:PUT": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       },
+     "20013_/api/v1/account/phone:POST": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20042_/api/v1/account/phone:POST": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20017_/api/v1/account/phone:POST": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       },
+     "20002_/api/v1/account/phone:PUT": {
+         "zh": "新手机不能与系统中已存在手机一样",
+         "en": "The new phone cannot be the same as the existed phone in the system."
+       },
+     "20013_/api/v1/account/phone:PUT": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20042_/api/v1/account/phone:PUT": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20017_/api/v1/account/phone:PUT": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       },
+     "20050_/api/v1/account/phone:PUT": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20051_/api/v1/account/phone:PUT": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20049_/api/v1/account/phone:PUT": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       },
+     "20013_/api/v1/account/email:POST": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20042_/api/v1/account/email:POST": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20017_/api/v1/account/email:POST": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       },
+     "20002_/api/v1/account/email:PUT": {
+         "zh": "新邮箱不能与系统中已存在邮箱一样",
+         "en": "The new email cannot be the same as the existed email in the system."
+       },
+     "20013_/api/v1/account/email:PUT": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20042_/api/v1/account/email:PUT": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20017_/api/v1/account/email:PUT": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       },
+     "20050_/api/v1/account/email:PUT": {
+         "zh": "验证码错误",
+         "en": "Incorrect code"
+       },
+     "20051_/api/v1/account/email:PUT": {
+         "zh": "验证码错误多次，请重发",
+         "en": "Incorrect code, please get a new one"
+       },
+     "20049_/api/v1/account/email:PUT": {
+         "zh": "验证码过期，请重发",
+         "en": "Code expired, please get a new one"
+       }
+     }
+    
