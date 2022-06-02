@@ -360,12 +360,12 @@
         "en": "Wallet suspended"
       },
     "20027_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "钱包已被冻结",
-        "en": "Wallet been frozen"
+        "zh": "钱包不可用，无法提现",
+        "en": "Wallet is unavailable, cannot withdraw"
       },
     "20024_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "钱包禁止提现",
-        "en": "Withdrawal suspended"
+        "zh": "钱包不可用，无法提现",
+        "en": "Wallet is unavailable, cannot withdraw"
       },
     "20028_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "资产已被禁用",
@@ -376,12 +376,12 @@
         "en": "Asset suspended"
       },
     "20026_/api/v1/funding/transfer:POST": {
-        "zh": "钱包已被禁用",
-        "en": "Wallet suspended"
+        "zh": "钱包不可用，无法划转",
+        "en": "Wallet is unavailable, cannot transfer"
       },
     "20027_/api/v1/funding/transfer:POST": {
-        "zh": "钱包已被冻结",
-        "en": "Wallet been frozen"
+        "zh": "钱包不可用，无法划转",
+        "en": "Wallet is unavailable, cannot transfer"
       },
     "20024_/api/v1/funding/transfer:POST": {
         "zh": "钱包禁止划转",
@@ -558,6 +558,10 @@
     "20024_/api/v1/wallet/{id}/asset/{assetname}/address:GET": {
         "zh": "该钱包充值暂停",
         "en": "Deposit temporarily suspended for this wallet"
+      },
+    "20053_/api/v1/walletInfo:GET": {
+        "zh": "钱包不存在",
+        "en": "Walllet not found"
       }
     }
    
