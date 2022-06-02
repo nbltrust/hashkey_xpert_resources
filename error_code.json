@@ -561,7 +561,7 @@
       },
     "20053_/api/v1/walletInfo:GET": {
         "zh": "钱包不存在",
-        "en": "Walllet not found"
+        "en": "Wallet not found"
       }
     }
    
