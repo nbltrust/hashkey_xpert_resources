@@ -352,44 +352,44 @@
         "en": "New e-mail code expired, please get a new one"
       },
     "20025_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "币种{x}不可用",
-        "en": "Coin {x} is unavailable"
+        "zh": "资产已被禁用",
+        "en": "Asset suspended"
       },
     "20026_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "币种{x}不可用",
-        "en": "Coin {x} is unavailable"
+        "zh": "钱包已被禁用",
+        "en": "Wallet suspended"
       },
     "20027_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "币种{x}不可用",
-        "en": "Coin {x} is unavailable"
+        "zh": "钱包已被冻结",
+        "en": "Wallet been frozen"
       },
     "20024_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "币种{x}不可用",
-        "en": "Coin {x} is unavailable"
+        "zh": "钱包禁止提现",
+        "en": "Withdrawal suspended"
       },
     "20028_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-        "zh": "币种{x}已关闭",
-        "en": "Coin {x} switched off"
+        "zh": "资产已被禁用",
+        "en": "Asset suspended"
       },
     "20025_/api/v1/funding/transfer:POST": {
-        "zh": "币种{x}不可用",
-        "en": "Coin {x} is unavailable"
+        "zh": "资产已被禁用",
+        "en": "Asset suspended"
       },
     "20026_/api/v1/funding/transfer:POST": {
-        "zh": "钱包{x}不可用",
-        "en": "Wallet {x} is unavailable"
+        "zh": "钱包已被禁用",
+        "en": "Wallet suspended"
       },
     "20027_/api/v1/funding/transfer:POST": {
-        "zh": "钱包{x}不可用",
-        "en": "Wallet {x} is unavailable"
+        "zh": "钱包已被冻结",
+        "en": "Wallet been frozen"
       },
     "20024_/api/v1/funding/transfer:POST": {
-        "zh": "钱包{x}不可用",
-        "en": "Wallet {x} is unavailable"
+        "zh": "钱包禁止划转",
+        "en": "Transfer suspended"
       },
     "20028_/api/v1/funding/transfer:POST": {
-        "zh": "币种{x}已关闭",
-        "en": "Coin {x} switched off"
+        "zh": "资产已被禁用",
+        "en": "Asset suspended"
       },
       "20015_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "提现地址在黑名单或不在白名单中",
@@ -554,6 +554,10 @@
     "20053_/api/v1/funding/transfer:POST": {
         "zh": "接收钱包ID错误",
         "en": "Receiving wallet ID error"
+      },
+    "20024_/api/v1/wallet/{id}/asset/{assetname}/address:GET": {
+        "zh": "该钱包充值暂停",
+        "en": "Deposit temporarily suspended for this wallet"
       }
     }
    
