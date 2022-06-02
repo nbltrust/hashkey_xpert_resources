@@ -562,6 +562,10 @@
     "20053_/api/v1/walletInfo:GET": {
         "zh": "钱包不存在",
         "en": "Wallet not found"
+      },
+    "20009_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
+        "zh": "数量必须大于最小提现额度",
+        "en": "Too small amount"
       }
     }
    
