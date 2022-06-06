@@ -248,16 +248,16 @@
        "en": "Transfer failed"
      },
    "20031_/api/v1/funding/transfer:POST": {
-       "zh": "转账失败",
-       "en": "Transfer failed"
+       "zh": "金额超过了钱包风控中的每小时限额",
+       "en": "The amount exceeds the hourly limit of spending in wallet's policy"
      },
    "20032_/api/v1/funding/transfer:POST": {
-       "zh": "转账失败",
-       "en": "Transfer failed"
+       "zh": "金额超过了钱包风控中的每日限额",
+       "en": "The amount exceeds the daily limit of spending in wallet's policy"
      },
    "20033_/api/v1/funding/transfer:POST": {
-       "zh": "转账失败",
-       "en": "Transfer failed"
+       "zh": "金额超过了钱包风控中的每笔限额",
+       "en": "The amount exceeds the single transaction limit of spending in wallet's policy"
      },
      "20013_/api/v1/account/password:PUT": {
         "zh": "验证码错误",
@@ -566,6 +566,10 @@
     "20009_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "数量必须大于最小提现额度",
         "en": "Too small amount"
+      },
+    "20054_/api/v1/funding/transfer:POST": {
+        "zh": "对方用户已被冻结，无法转账",
+        "en": "Destination Client been frozen, cannot transfer"
       }
     }
    
