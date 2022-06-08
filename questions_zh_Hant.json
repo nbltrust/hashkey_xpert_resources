@@ -5,31 +5,31 @@
         "questions": [{
             "key": "tradingReasons",
             "type": "multiple",
-            "title": "与我们交易的原因",
+            "title": "與我們交易的原因",
             "column": 1,
             "choices": [
-                "交易加密货币投资",
-                "钱包和托管服务",
-                "支持OTC业务交易",
-                "支持数字货币交易所业务的交易",
-                "代表客户进行交易",
-                "兑换或清算在常规业务运营中获得的加密货币",
-                "兑换或清算在ICO/代币销售中筹集的资金",
-                "购买加密货币用于常规业务运营",
-                "使用加密货币作为支付形式",
-                "参与其他加密货币产品",
+                "交易加密貨幣投資",
+                "錢包和託管服務",
+                "支持OTC業務交易",
+                "支持數字貨幣交易所業務的交易",
+                "代表客戶進行交易",
+                "兌換或清算在常規業務運營中獲得的加密貨幣",
+                "兌換或清算在ICO/代幣銷售中籌集的資金",
+                "購買加密貨幣用於常規業務運營",
+                "使用加密貨幣作為支付形式",
+                "參與其他加密貨幣產品",
                 "其他"
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "请输入其他原因"
+            "hintText": "請輸入其他原因"
         }, {
             "key": "tradingExperience",
             "type": "single",
-            "title": "加密货币交易的经验",
+            "title": "加密貨幣交易的經驗",
             "column": 1,
             "choices": [
-                "暂无经验",
+                "暫無經驗",
                 "1~3年",
                 "3~5年",
                 "5~10年",
@@ -40,7 +40,7 @@
         }, {
             "key": "cryptocurrencies",
             "type": "multiple",
-            "title": "意欲交易的加密货币",
+            "title": "意欲交易的加密貨幣",
             "column": 3,
             "choices": [
                 "BTC",
@@ -60,11 +60,11 @@
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "请输入其他加密货币名称"
+            "hintText": "請輸入其他加密貨幣名稱"
         }, {
             "key": "exchanges",
             "type": "multiple",
-            "title": "您目前持有的加密货币存放在哪些平台？",
+            "title": "您目前持有的加密貨幣存放在哪些平台？",
             "column": 3,
             "choices": [
                 "Binance",
@@ -78,19 +78,19 @@
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "请输入交易所或钱包的名称"
+            "hintText": "請輸入交易所或錢包的名稱"
         }, {
             "key": "hashKeyContact",
             "type": "single",
-            "title": "您在HashKey有联系人吗？",
-            "column": 3,
+            "title": "您在HashKey有聯繫人嗎？",
+            "column": 1,
             "choices": [
                 "否",
                 "是"
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "请输入联系人的信息"
+            "hintText": "請輸入聯繫人的信息"
         }]
     },
     "message": "OK",
