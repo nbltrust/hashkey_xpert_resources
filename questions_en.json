@@ -1,0 +1,98 @@
+{
+    "code": 0,
+    "data": {
+        "version": "1.0.0",
+        "questions": [{
+            "key": "tradingReasons",
+            "type": "multiple",
+            "title": "Reasons for trading with us",
+            "column": 1,
+            "choices": [
+                "Trading cryptocurrency investments",
+                "Wallet and custody service",
+                "Trading in support of an OTC business",
+                "Trading in support of digital currency exchange operations",
+                "Trading on behalf of clients",
+                "Converting or liquidating cryptocurrencies obtained in regular business operations",
+                "Converting or liquidating funds raised in an ICO/Tokensale",
+                "Purchasing cryptocurrencies for regular business operations",
+                "Using cryptocurrencies as form of payment",
+                "Participation in other cryptocurrency products",
+                "Others"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "Enter other reason"
+        }, {
+            "key": "tradingExperience",
+            "type": "single",
+            "title": "Experience in trading cryptocurrencies",
+            "column": 1,
+            "choices": [
+                "No experience",
+                "1~3 Years",
+                "3~5 Years",
+                "5~10 Years",
+                "Over 10 years"
+            ],
+            "required": true,
+            "lastUserInput": false
+        }, {
+            "key": "cryptocurrencies",
+            "type": "multiple",
+            "title": "Cryptocurrencies you intend to trade",
+            "column": 3,
+            "choices": [
+                "BTC",
+                "ETH",
+                "USDT",
+                "ADA",
+                "XRP",
+                "ATOM",
+                "LTC",
+                "SOL",
+                "AVAX",
+                "TRX",
+                "IRIS",
+                "KSM",
+                "DOT",
+                "Others"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "Enter other cryptocurrencies"
+        }, {
+            "key": "exchanges",
+            "type": "multiple",
+            "title": "Where do you keep your cryptocurrency holdings?",
+            "column": 3,
+            "choices": [
+                "Binance",
+                "Huobi",
+                "Coinbase",
+                "OKEX",
+                "Cobo",
+                "Kraken",
+                "FTX",
+                "Others"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "Names of exchanges and wallet providers"
+        }, {
+            "key": "hashKeyContact",
+            "type": "single",
+            "title": "Do you have a contact at HashKey？",
+            "column": 3,
+            "choices": [
+                "NO",
+                "YES"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "Enter the information of the contact person"
+        }]
+    },
+        "message": "OK",
+        "mobileCode": "0"
+}

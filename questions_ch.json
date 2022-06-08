@@ -1,0 +1,98 @@
+{
+    "code": 0,
+    "data": {
+        "version": "1.0.0",
+        "questions": [{
+            "key": "tradingReasons",
+            "type": "multiple",
+            "title": "与我们交易的原因",
+            "column": 1,
+            "choices": [
+                "交易加密货币投资",
+                "钱包和托管服务",
+                "支持OTC业务交易",
+                "支持数字货币交易所业务的交易",
+                "代表客户进行交易",
+                "兑换或清算在常规业务运营中获得的加密货币",
+                "兑换或清算在ICO/代币销售中筹集的资金",
+                "购买加密货币用于常规业务运营",
+                "使用加密货币作为支付形式",
+                "参与其他加密货币产品",
+                "其他"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "请输入其他原因"
+        }, {
+            "key": "tradingExperience",
+            "type": "single",
+            "title": "加密货币交易的经验",
+            "column": 1,
+            "choices": [
+                "暂无经验",
+                "1~3年",
+                "3~5年",
+                "5~10年",
+                "10年以上"
+            ],
+            "required": true,
+            "lastUserInput": false
+        }, {
+            "key": "cryptocurrencies",
+            "type": "multiple",
+            "title": "意欲交易的加密货币",
+            "column": 3,
+            "choices": [
+                "BTC",
+                "ETH",
+                "USDT",
+                "ADA",
+                "XRP",
+                "ATOM",
+                "LTC",
+                "SOL",
+                "AVAX",
+                "TRX",
+                "IRIS",
+                "KSM",
+                "DOT",
+                "其他"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "请输入其他加密货币名称"
+        }, {
+            "key": "exchanges",
+            "type": "multiple",
+            "title": "您目前持有的加密货币存放在哪些平台？",
+            "column": 3,
+            "choices": [
+                "Binance",
+                "Huobi",
+                "Coinbase",
+                "OKEX",
+                "Cobo",
+                "Kraken",
+                "FTX",
+                "其他"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "请输入交易所或钱包的名称"
+        }, {
+            "key": "hashKeyContact",
+            "type": "single",
+            "title": "您在HashKey有联系人吗？",
+            "column": 3,
+            "choices": [
+                "否",
+                "是"
+            ],
+            "required": true,
+            "lastUserInput": true,
+            "hintText": "请输入联系人的信息"
+        }]
+    },
+    "message": "OK",
+    "mobileCode": "0"
+}
