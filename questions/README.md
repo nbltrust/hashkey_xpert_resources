@@ -4,7 +4,7 @@
 
 - 中文简体，questions_zh_Hant.json
 - 中文繁体，questions_zh_Hans.json
-- 英文，questions_zh_en.json
+- 英文，questions_en.json
 
 理论上讲，每个版本的以上三个文件内容都是一样的，只是把每个题目的**题干**和**选项**更换了语言。
 
@@ -16,7 +16,7 @@
 
 - 中文简体，questions_zh_Hant_1.0.1.json
 - 中文繁体，questions_zh_Hans_1.0.1.json
-- 英文，questions_zh_en_1.0.1.json
+- 英文，questions_en_1.0.1.json
 
 **当前版本**的文件不包括版本号，所有历史版本都需要包括版本号。
 
