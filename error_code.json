@@ -1,575 +1,707 @@
 {
    "20038_/api/v1/register:POST": {
        "zh": "手机号码已存在",
-       "en": "Phone number already exists"
+       "en": "Phone number already exists",
+       "tc": "手機號碼已存在"
      },
    "20037_/api/v1/register:POST": {
        "zh": "邮箱已存在",
-       "en": "Email already exists"
+       "en": "Email already exists",
+       "tc": "郵箱已存在"
      },
    "20035_/api/v1/register:POST": {
        "zh": "发送已达当日上限",
-       "en": "Daily limit reached"
+       "en": "Daily limit reached",
+       "tc": "發送已達當日上限"
      },
    "20039_/api/v1/register:POST": {
        "zh": "邮箱验证码发送次数已达上限",
-       "en": "Email verification has reached the upper limit"
+       "en": "Email verification has reached the upper limit",
+       "tc": "郵箱驗證碼發送次數已達上限"
      },
    "20014_/api/v1/register:POST": {
-       "zh": "发送间隔太短,请1分钟后再试",
-       "en": "Frequent request detected, retry 1 min later"
+       "zh": "发送间隔太短，请1分钟后再试",
+       "en": "Frequent request detected, retry 1 min later",
+       "tc": "發送間隔太短，請1分鐘後再試"
      },
    "20040_/api/v1/register:POST": {
-       "zh": "发送间隔太短,请1分钟后再试",
-       "en": "Frequent request detected, retry 1 min later"
+       "zh": "发送间隔太短，请1分钟后再试",
+       "en": "Frequent request detected, retry 1 min later",
+       "tc": "發送間隔太短，請1分鐘後再試"
      },
    "20041_/api/v1/register:POST": {
-       "zh": "发送短信失败,请重试",
-       "en": "Send sms error, please retry"
+       "zh": "发送短信失败，请重试",
+       "en": "Send sms error, please retry",
+       "tc": "發送短信失敗，請重試"
      },
    "20018_/api/v1/register:POST": {
-       "zh": "发送邮件失败,请重试",
-       "en": "Send email error, please retry"
+       "zh": "发送邮件失败，请重试",
+       "en": "Send email error, please retry",
+       "tc": "發送郵件失敗，請重試"
      },
    "10003_/api/v1/register/verify:POST": {
-       "zh": "验证失败,请稍后再试",
-       "en": "Authentication failed, please retry"
+       "zh": "验证失败，请稍后再试",
+       "en": "Authentication failed, please retry",
+       "tc": "驗證失敗，請稍後再試"
      },
    "20013_/api/v1/register/verify:POST": {
        "zh": "验证码错误",
-       "en": "Incorrect code"
+       "en": "Incorrect code",
+       "tc": "驗證碼錯誤"
      },
    "20042_/api/v1/register/verify:POST": {
-       "zh": "验证码错误多次,请重发",
-       "en": "Incorrect code, please get a new one"
+       "zh": "验证码错误多次，请重发",
+       "en": "Incorrect code, please get a new one",
+       "tc": "驗證碼錯誤多次，請重發"
      },
    "20017_/api/v1/register/verify:POST": {
-       "zh": "验证码过期,请重发",
-       "en": "Code expired, please get a new one"
+       "zh": "验证码过期，请重发",
+       "en": "Code expired, please get a new one",
+       "tc": "驗證碼過期，請重發"
      },
    "0_/api/v1/account/authsecret:PUT": {
        "zh": "谷歌认证成功",
-       "en": "Activated"
+       "en": "Activated",
+       "tc": "谷歌認證成功"
      },
    "20003_/api/v1/account/authsecret:PUT": {
        "zh": "验证码错误",
-       "en": "Incorrect code"
+       "en": "Incorrect code",
+       "tc": "驗證碼錯誤"
      },
    "10003_/api/v1/account/authsecret:PUT": {
        "zh": "谷歌认证失败",
-       "en": "Activation Failed"
+       "en": "Activation Failed",
+       "tc": "谷歌認證失敗"
      },
    "-1_/api/v1/account/password:PATCH": {
         "zh": "Token不合法",
-        "en": "Token is incorrect"
+        "en": "Token is incorrect",
+        "tc": "Token不合法"
       },
    "20022_/api/v1/session:POST": {
        "zh": "帐号或密码不正确",
-       "en": "User name or Password is incorrect"
+       "en": "User name or Password is incorrect",
+       "tc": "帳號或密碼不正確"
      },
    "0_/api/v1/session:POST": {
        "zh": "登录成功",
-       "en": "Logged in"
+       "en": "Logged in",
+       "tc": "登錄成功"
      },
    "20013_/api/v1/account/verify-authcode:PUT": {
        "zh": "验证码错误",
-       "en": "Incorrect code"
+       "en": "Incorrect code",
+       "tc": "驗證碼錯誤"
      },
    "20042_/api/v1/account/verify-authcode:PUT": {
-       "zh": "验证码错误多次,请重发",
-       "en": "Incorrect code, please get a new one"
+       "zh": "验证码错误多次，请重发",
+       "en": "Incorrect code, please get a new one",
+       "tc": "驗證碼錯誤多次，請重發"
      },
    "20017_/api/v1/account/verify-authcode:PUT": {
-       "zh": "验证码过期,请重发",
-       "en": "Code expired, please get a new one"
+       "zh": "验证码过期，请重发",
+       "en": "Code expired, please get a new one",
+       "tc": "驗證碼過期，請重發"
      },
    "20001_/api/v1/account/password/reset:POST": {
        "zh": "用户不存在",
-       "en": "User no exists"
+       "en": "User no exists",
+       "tc": "用戶不存在"
      },
    "20022_/api/v1/account/password:PUT": {
        "zh": "原密码不正确",
-       "en": "Password is incorrect"
+       "en": "Password is incorrect",
+       "tc": "原密碼不正確"
      },
    "20036_/api/v1/account/password:PUT": {
        "zh": "新密码不能和旧密码相同",
-       "en": "The new password can not be the same as the original one"
+       "en": "The new password can not be the same as the original one",
+       "tc": "新密碼不能和舊密碼相同"
      },
    "0_/api/v1/account/password:PUT": {
        "zh": "修改成功",
-       "en": "Updated Success"
+       "en": "Updated Success",
+       "tc": "修改成功"
      },
    "10003_/api/v1/account/password:PUT": {
        "zh": "修改失败",
-       "en": "Updated Failed"
+       "en": "Updated Failed",
+       "tc": "修改失敗"
      },
    "0_/api/v1/account/phone:POST": {
        "zh": "手机认证成功",
-       "en": "Verified"
+       "en": "Verified",
+       "tc": "手機認證成功"
      },
    "10003_/api/v1/account/phone:POST": {
        "zh": "手机认证失败",
-       "en": "Verification Failed"
+       "en": "Verification Failed",
+       "tc": "手機認證失敗"
      },
    "0_/api/v1/account/phone:PUT": {
        "zh": "手机修改成功",
-       "en": "Updated Success"
+       "en": "Updated Success",
+       "tc": "手機修改成功"
      },
    "10003_/api/v1/account/phone:PUT": {
        "zh": "手机修改失败",
-       "en": "Updated Failed"
+       "en": "Updated Failed",
+       "tc": "手機修改失敗"
      },
    "0_/api/v1/account/email:POST": {
        "zh": "邮箱认证成功",
-       "en": "Verified"
+       "en": "Verified",
+       "tc": "郵箱認證成功"
      },
    "10003_/api/v1/account/email:POST": {
        "zh": "邮箱认证失败",
-       "en": "Verification Failed"
+       "en": "Verification Failed",
+       "tc": "郵箱認證失敗"
      },
    "0_/api/v1/account/email:PUT": {
        "zh": "邮箱修改成功",
-       "en": "Updated Success"
+       "en": "Updated Success",
+       "tc": "郵箱修改成功"
      },
    "10003_/api/v1/account/email:PUT": {
        "zh": "邮箱修改失败",
-       "en": "Updated Failed"
+       "en": "Updated Failed",
+       "tc": "郵箱修改失敗"
      },
    "20002_/api/v1/kyc/application:PUT": {
-       "zh": "证件号码已存在,请检查后重新填写",
-       "en": "ID number has been existed, please check it and refill later"
+       "zh": "证件号码已存在，请检查后重新填写",
+       "en": "ID number has been existed, please check it and refill later",
+       "tc": "證件號碼已存在，請檢查後重新填寫"
      },
    "10003_/api/v1/kyc/file:POST": {
        "zh": "图片上传失败",
-       "en": "Image upload failed"
+       "en": "Image upload failed",
+       "tc": "圖片上傳失敗"
      },
    "20009_/api/v1/kyc/file:POST": {
        "zh": "文件上传最大不超过10M",
-       "en": "Upload image within 10M"
+       "en": "Upload image within 10M",
+       "tc": "文件上傳最大不超過10M"
      },
    "20044_/api/v1/kyc/file:POST": {
        "zh": "请以jpg、png格式上传",
-       "en": "Upload image in jpg or png format"
+       "en": "Upload image in jpg or png format",
+       "tc": "請以jpg、png格式上傳"
      },
    "0_/api/v1/kyc/application:PUT": {
-       "zh": "您的认证信息已提交,预计将于1-3个工作日内完成,请耐心等候",
-       "en": "The information of your Identity certification has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently"
+       "zh": "您的认证信息已提交，预计将于1-3个工作日内完成,请耐心等候",
+       "en": "The information of your Identity certification has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently",
+       "tc": "您的認證信息已提交，預計將於1-3個工作日內完成,請耐心等候"
      },
    "0_/api/v1/kyc/fiat:POST": {
-       "zh": "您的法币结算信息已提交,预计将于1-3个工作日内完成,请耐心等候",
-       "en": "The information of your Fiat Settlement has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently"
+       "zh": "您的法币结算信息已提交，预计将于1-3个工作日内完成,请耐心等候",
+       "en": "The information of your Fiat Settlement has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently",
+       "tc": "您的法幣結算信息已提交，預計將於1-3個工作日內完成,請耐心等候"
      },
    "0_/api/v1/kyc/fiat/{fiatID}:PUT": {
-       "zh": "您的法币结算信息已提交,预计将于1-3个工作日内完成,请耐心等候",
-       "en": "The information of your Fiat Settlement has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently"
+       "zh": "您的法币结算信息已提交，预计将于1-3个工作日内完成,请耐心等候",
+       "en": "The information of your Fiat Settlement has been submitted, it is expected to be completed in 1-3 working days, Please wait patiently",
+       "tc": "您的法幣結算信息已提交，預計將於1-3個工作日內完成,請耐心等候"
      },
    "20002_/api/v1/kyc/fiat:POST": {
-       "zh": "银行账号已存在,请检查后重新填写",
-       "en": "Account number has been existed, please check it and refill later"
+       "zh": "银行账号已存在，请检查后重新填写",
+       "en": "Account number has been existed, please check it and refill later",
+       "tc": "銀行賬號已存在，請檢查後重新填寫"
      },
    "20002_/api/v1/kyc/fiat/{fiatID}:PUT": {
-       "zh": "证件号码已存在,请检查后重新填写",
-       "en": "ID number has been existed, please check it and refill later"
+       "zh": "银行账号已存在，请检查后重新填写",
+       "en": "Account number has been existed, please check it and refill later",
+       "tc": "銀行賬號已存在，請檢查後重新填寫"
      },
    "20012_/api/v1/kyc/fiat:POST": {
-       "zh": "银行卡数量达到上限,无法添加,如需新增,请先将已认证的银行卡删除",
-       "en": "The number of bank cards has reached the upper limit and cannot be added. If you need, delete the verified bank cards first."
+       "zh": "银行卡数量达到上限，无法添加，如需新增，请先将已认证的银行卡删除",
+       "en": "The number of bank cards has reached the upper limit and cannot be added. If you need, delete the verified bank cards first",
+       "tc": "銀行卡數量達到上限，無法添加，如需新增，請先將已認證的銀行卡刪除"
      },
    "0_/api/v1/kyc/fiat/{fiatID}:DELETE": {
        "zh": "删除成功",
-       "en": "Delete Success"
+       "en": "Delete Success",
+       "tc": "刪除成功"
      },
    "10003_/api/v1/kyc/fiat/{fiatID}:DELETE": {
-       "zh": "删除失败,请重试",
-       "en": "Delete failed, try again"
+       "zh": "删除失败，请重试",
+       "en": "Delete failed, try again",
+       "tc": "刪除失敗，請重試"
      },
    "20004_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
        "zh": "超过您所拥有的数量总额",
-       "en": "Your withdrawal amount has exceeded the available balance."
+       "en": "Your withdrawal amount has exceeded the available balance",
+       "tc": "超過您所擁有的數量總額"
      },
    "20033_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
-       "zh": "金额超过了钱包风控中的每笔限额。",
-       "en": "The amount exceeds the single transaction limit of spending in wallet's policy."
+       "zh": "金额超过了钱包风控中的每笔限额",
+       "en": "The amount exceeds the single transaction limit of spending in wallet's policy",
+       "tc": "金額超過了錢包風控中的每筆限額"
      },
    "20031_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
        "zh": "金额超过了钱包风控中的每小时限额",
-       "en": "The amount exceeds the hourly limit of spending in wallet's policy."
+       "en": "The amount exceeds the hourly limit of spending in wallet's policy",
+       "tc": "金額超過了錢包風控中的每小時限額"
      },
    "20032_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
        "zh": "金额超过了钱包风控中的每日限额",
-       "en": "The amount exceeds the daily limit of spending in wallet's policy"
+       "en": "The amount exceeds the daily limit of spending in wallet's policy",
+       "tc": "金額超過了錢包風控中的每日限額"
      },
    "10001_/api/v1/wallet/{id}/asset/{assetname}/verify-address:GET": {
        "zh": "转账地址格式错误",
-       "en": "Incorrect address format"
+       "en": "Incorrect address format",
+       "tc": "轉賬地址格式錯誤"
      },
    "20009_/api/v1/company/addressbook:POST": {
        "zh": "地址格式错误",
-       "en": "Incorrect address format"
+       "en": "Incorrect address format",
+       "tc": "地址格式錯誤"
      },
    "20002_/api/v1/company/addressbook:POST": {
        "zh": "地址已存在",
-       "en": "Address already exists"
+       "en": "Address already exists",
+       "tc": "地址已存在"
      },
    "0_/api/v1/company/addressbook:POST": {
        "zh": "地址添加成功",
-       "en": "Address added successfully"
+       "en": "Address added successfully",
+       "tc": "地址添加成功"
      },
    "10003_/api/v1/company/addressbook:POST": {
        "zh": "地址添加失败",
-       "en": "Address added failed"
+       "en": "Address added failed",
+       "tc": "地址添加失敗"
      },
    "20044_/api/v1/funding/transfer:POST": {
-       "zh": "划转失败,接收钱包目前还没有支持该币种",
-       "en": "Failed to transfer, the receiving wallet does not support this coin currently"
+       "zh": "划转失败，接收钱包目前还没有支持该币种",
+       "en": "Failed to transfer, the receiving wallet does not support this coin currently",
+       "tc": "劃轉失敗，接收錢包目前還沒有支持該幣種"
      },
    "20004_/api/v1/funding/transfer:POST": {
        "zh": "超过您所拥有的数量总额",
-       "en": "Your transfer amount has exceeded the available balance"
+       "en": "Your transfer amount has exceeded the available balance",
+       "tc": "超過您所擁有的數量總額"
      },
    "20045_/api/v1/funding/transfer:POST": {
        "zh": "接收钱包不可用",
-       "en": "Receiving wallet is unavailable"
+       "en": "Receiving wallet is unavailable",
+       "tc": "接收錢包不可用"
      },
    "0_/api/v1/funding/transfer:POST": {
        "zh": "转账成功",
-       "en": "Transfer success"
+       "en": "Transfer success",
+       "tc": "轉賬成功"
      },
    "20008_/api/v1/funding/transfer:POST": {
        "zh": "钱包密码错误",
-       "en": "Wallet password error"
-     },
-   "20015_/api/v1/funding/transfer:POST": {
-       "zh": "转账失败",
-       "en": "Transfer failed"
-     },
-   "20016_/api/v1/funding/transfer:POST": {
-       "zh": "转账失败",
-       "en": "Transfer failed"
+       "en": "Wallet password error",
+       "tc": "錢包密碼錯誤"
      },
    "20031_/api/v1/funding/transfer:POST": {
        "zh": "金额超过了钱包风控中的每小时限额",
-       "en": "The amount exceeds the hourly limit of spending in wallet's policy"
+       "en": "The amount exceeds the hourly limit of spending in wallet's policy",
+       "tc": "金額超過了錢包風控中的每小時限額"
      },
    "20032_/api/v1/funding/transfer:POST": {
        "zh": "金额超过了钱包风控中的每日限额",
-       "en": "The amount exceeds the daily limit of spending in wallet's policy"
+       "en": "The amount exceeds the daily limit of spending in wallet's policy",
+       "tc": "金額超過了錢包風控中的每日限額"
      },
    "20033_/api/v1/funding/transfer:POST": {
        "zh": "金额超过了钱包风控中的每笔限额",
-       "en": "The amount exceeds the single transaction limit of spending in wallet's policy"
+       "en": "The amount exceeds the single transaction limit of spending in wallet's policy",
+       "tc": "金額超過了錢包風控中的每筆限額"
      },
-     "20013_/api/v1/account/password:PUT": {
-        "zh": "验证码错误",
-        "en": "Incorrect code"
-      },
-    "20042_/api/v1/account/password:PUT": {
-        "zh": "验证码错误多次，请重发",
-        "en": "Incorrect code, please get a new one"
-      },
-    "20017_/api/v1/account/password:PUT": {
-        "zh": "验证码过期，请重发",
-        "en": "Code expired, please get a new one"
-      },
+   "20013_/api/v1/account/password:PUT": {
+      "zh": "验证码错误",
+      "en": "Incorrect code",
+      "tc": "驗證碼錯誤"
+    },
+   "20042_/api/v1/account/password:PUT": {
+      "zh": "验证码错误多次，请重发",
+      "en": "Incorrect code, please get a new one",
+      "tc": "驗證碼錯誤多次，請重發"
+    },
+   "20017_/api/v1/account/password:PUT": {
+      "zh": "验证码过期，请重发",
+      "en": "Code expired, please get a new one",
+      "tc": "驗證碼過期，請重發"
+    },
     "20013_/api/v1/account/phone:POST": {
         "zh": "验证码错误",
-        "en": "Incorrect code"
+        "en": "Incorrect code",
+        "tc": "驗證碼錯誤"
       },
     "20042_/api/v1/account/phone:POST": {
         "zh": "验证码错误多次，请重发",
-        "en": "Incorrect code, please get a new one"
+        "en": "Incorrect code, please get a new one",
+        "tc": "驗證碼錯誤多次，請重發"
       },
     "20017_/api/v1/account/phone:POST": {
         "zh": "验证码过期，请重发",
-        "en": "Code expired, please get a new one"
+        "en": "Code expired, please get a new one",
+        "tc": "驗證碼過期，請重發"
       },
     "20002_/api/v1/account/phone:PUT": {
         "zh": "新手机不能与系统中已存在手机一样",
-        "en": "The new phone cannot be the same as the existed phone in the system."
+        "en": "The new phone cannot be the same as the existed phone in the system",
+        "tc": "新手機不能與系統中已存在手機一樣"
       },
     "20013_/api/v1/account/phone:PUT": {
         "zh": "验证码错误",
-        "en": "Incorrect code"
+        "en": "Incorrect code",
+        "tc": "驗證碼錯誤"
       },
     "20042_/api/v1/account/phone:PUT": {
         "zh": "验证码错误多次，请重发",
-        "en": "Incorrect code, please get a new one"
+        "en": "Incorrect code, please get a new one",
+        "tc": "驗證碼錯誤多次，請重發"
       },
     "20017_/api/v1/account/phone:PUT": {
         "zh": "验证码过期，请重发",
-        "en": "Code expired, please get a new one"
+        "en": "Code expired, please get a new one",
+        "tc": "驗證碼過期，請重發"
       },
     "20050_/api/v1/account/phone:PUT": {
         "zh": "新手机验证码错误",
-        "en": "Incorrect new phone code"
+        "en": "Incorrect new phone code",
+        "tc": "新手機驗證碼錯誤"
       },
     "20051_/api/v1/account/phone:PUT": {
         "zh": "新手机验证码错误多次，请重发",
-        "en": "Incorrect new phone code, please get a new one"
+        "en": "Incorrect new phone code, please get a new one",
+        "tc": "新手機驗證碼錯誤多次，請重發"
       },
     "20049_/api/v1/account/phone:PUT": {
         "zh": "新手机验证码过期，请重发",
-        "en": "New phone code expired, please get a new one"
+        "en": "New phone code expired, please get a new one",
+        "tc": "新手機驗證碼過期，請重發"
       },
     "20013_/api/v1/account/email:POST": {
         "zh": "验证码错误",
-        "en": "Incorrect code"
+        "en": "Incorrect code",
+        "tc": "驗證碼錯誤"
       },
     "20042_/api/v1/account/email:POST": {
         "zh": "验证码错误多次，请重发",
-        "en": "Incorrect code, please get a new one"
+        "en": "Incorrect code, please get a new one",
+        "tc": "驗證碼錯誤多次，請重發"
       },
     "20017_/api/v1/account/email:POST": {
         "zh": "验证码过期，请重发",
-        "en": "Code expired, please get a new one"
+        "en": "Code expired, please get a new one",
+        "tc": "驗證碼過期，請重發"
       },
     "20002_/api/v1/account/email:PUT": {
         "zh": "新邮箱不能与系统中已存在邮箱一样",
-        "en": "The new email cannot be the same as the existed email in the system."
+        "en": "The new email cannot be the same as the existed email in the system",
+        "tc": "新郵箱不能與系統中已存在郵箱一樣"
       },
     "20013_/api/v1/account/email:PUT": {
         "zh": "验证码错误",
-        "en": "Incorrect code"
+        "en": "Incorrect code",
+        "tc": "驗證碼錯誤"
       },
     "20042_/api/v1/account/email:PUT": {
         "zh": "验证码错误多次，请重发",
-        "en": "Incorrect code, please get a new one"
+        "en": "Incorrect code, please get a new one",
+        "tc": "驗證碼錯誤多次，請重發"
       },
     "20017_/api/v1/account/email:PUT": {
         "zh": "验证码过期，请重发",
-        "en": "Code expired, please get a new one"
+        "en": "Code expired, please get a new one",
+        "tc": "驗證碼過期，請重發"
       },
     "20050_/api/v1/account/email:PUT": {
         "zh": "新邮箱验证码错误",
-        "en": "Incorrect new e-mail code"
+        "en": "Incorrect new e-mail code",
+        "tc": "新郵箱驗證碼錯誤"
       },
     "20051_/api/v1/account/email:PUT": {
         "zh": "新邮箱验证码错误多次，请重发",
-        "en": "Incorrect new-email code, please get a new one"
+        "en": "Incorrect new-email code, please get a new one",
+        "tc": "新郵箱驗證碼錯誤多次，請重發"
       },
     "20049_/api/v1/account/email:PUT": {
         "zh": "新邮箱验证码过期，请重发",
-        "en": "New e-mail code expired, please get a new one"
+        "en": "New e-mail code expired, please get a new one",
+        "tc": "新郵箱驗證碼過期，請重發"
       },
     "20025_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "资产已被禁用",
-        "en": "Asset suspended"
+        "en": "Asset suspended",
+        "tc": "資產已被禁用"
       },
     "20026_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "钱包已被禁用",
-        "en": "Wallet suspended"
+        "en": "Wallet suspended",
+        "tc": "錢包已被禁用"
       },
     "20027_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "钱包不可用，无法提现",
-        "en": "Wallet is unavailable, cannot withdraw"
+        "en": "Wallet is unavailable, cannot withdraw",
+        "tc": "錢包不可用，無法提現"
       },
     "20024_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "钱包不可用，无法提现",
-        "en": "Wallet is unavailable, cannot withdraw"
+        "en": "Wallet is unavailable, cannot withdraw",
+        "tc": "錢包不可用，無法提現"
       },
     "20028_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "资产已被禁用",
-        "en": "Asset suspended"
+        "en": "Asset suspended",
+        "tc": "資產已被禁用"
       },
     "20025_/api/v1/funding/transfer:POST": {
         "zh": "资产已被禁用",
-        "en": "Asset suspended"
+        "en": "Asset suspended",
+        "tc": "資產已被禁用"
       },
     "20026_/api/v1/funding/transfer:POST": {
         "zh": "钱包不可用，无法划转",
-        "en": "Wallet is unavailable, cannot transfer"
+        "en": "Wallet is unavailable, cannot transfer",
+        "tc": "錢包不可用，無法劃轉"
       },
     "20027_/api/v1/funding/transfer:POST": {
         "zh": "钱包不可用，无法划转",
-        "en": "Wallet is unavailable, cannot transfer"
+        "en": "Wallet is unavailable, cannot transfer",
+        "tc": "錢包不可用，無法劃轉"
       },
     "20024_/api/v1/funding/transfer:POST": {
         "zh": "钱包禁止划转",
-        "en": "Transfer suspended"
+        "en": "Transfer suspended",
+        "tc": "錢包禁止劃轉"
       },
     "20028_/api/v1/funding/transfer:POST": {
         "zh": "资产已被禁用",
-        "en": "Asset suspended"
+        "en": "Asset suspended",
+        "tc": "資產已被禁用"
       },
       "20015_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "提现地址在黑名单或不在白名单中",
-        "en": "The withdrawal address in the black list or not in the white list"
+        "en": "The withdrawal address in the black list or not in the white list",
+        "tc": "提現地址在黑名單或不在白名單中"
       },
       "20016_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "提现地址在黑名单或不在白名单中",
-        "en": "The withdrawal address in the black list or not in the white list"
+        "en": "The withdrawal address in the black list or not in the white list",
+        "tc": "提現地址在黑名單或不在白名單中"
       },
     "20010_/api/v1/funding/transfer:POST": {
-        "zh": "因为对方在使用的热钱包不同，所以本次划转不被允许。请通过提现的方式转给对方。",
-        "en": "This transfer is not permitted, because the receiving wallet is using a different hot wallet. Please send the fund to it by withdrawing."
+        "zh": "因为对方在使用的热钱包不同，所以本次划转不被允许，请通过提现的方式转给对方",
+        "en": "This transfer is not permitted, because the receiving wallet is using a different hot wallet. Please send the fund to it by withdrawing",
+        "tc": "因為對方在使用的熱錢包不同，所以本次劃轉不被允許，請通過提現的方式轉給對方"
       },
     "0": {
         "zh": "操作成功",
-        "en": "Success"
+        "en": "Success",
+        "tc": "操作成功"
       },
     "-1": {
         "zh": "Token不合法",
-        "en": "Token is incorrect"
+        "en": "Token is incorrect",
+        "tc": "Token不合法"
       },
     "20043": {
         "zh": "Token过期",
-        "en": "Token is expired"
+        "en": "Token is expired",
+        "tc": "Token過期"
       },
     "20034": {
         "zh": "您已被管理员禁用，请联系客服处理",
-        "en": "You are disabled by administrator, please contact us"
+        "en": "You are disabled by administrator, please contact us",
+        "tc": "您已被管理員禁用，請聯系客服處理"
       },
     "20035": {
         "zh": "发送已达当日上限",
-        "en": "Daily limit reached"
+        "en": "Daily limit reached",
+        "tc": "發送已達當日上限"
       },
     "20039": {
         "zh": "邮箱验证码发送次数已达上限",
-        "en": "Email verification has reached the upper limit"
+        "en": "Email verification has reached the upper limit",
+        "tc": "郵箱驗證碼發送次數已達上限"
       },
     "20014": {
-        "zh": "发送间隔太短,请1分钟后再试",
-        "en": "Frequent request detected, retry 1 min later"
+        "zh": "发送间隔太短，请1分钟后再试",
+        "en": "Frequent request detected, retry 1 min later",
+        "tc": "發送間隔太短，請1分鐘後再試"
       },
     "20040": {
-        "zh": "发送间隔太短,请1分钟后再试",
-        "en": "Frequent request detected, retry 1 min later"
+        "zh": "发送间隔太短，请1分钟后再试",
+        "en": "Frequent request detected, retry 1 min later",
+        "tc": "發送間隔太短，請1分鐘後再試"
       },
     "20041": {
         "zh": "发送短信失败，请重试",
-        "en": "Send sms error, please retry"
+        "en": "Send sms error, please retry",
+        "tc": "發送短信失敗，請重試"
       },
     "20018": {
         "zh": "发送邮件失败，请重试",
-        "en": "Send mail error, please retry"
+        "en": "Send mail error, please retry",
+        "tc": "發送郵件失敗，請重試"
       },
     "10001": {
         "zh": "验证失败，请稍后再试",
-        "en": "Authentication failed, please retry"
+        "en": "Authentication failed, please retry",
+        "tc": "驗證失敗，請稍後再試"
       },
     "20013": {
         "zh": "验证码错误",
-        "en": "Incorrect code"
+        "en": "Incorrect code",
+        "tc": "驗證碼錯誤"
       },
     "20042": {
         "zh": "验证码错误多次，请重发",
-        "en": "Incorrect code, please get a new one"
+        "en": "Incorrect code, please get a new one",
+        "tc": "驗證碼錯誤多次，請重發"
       },
     "20017": {
         "zh": "验证码过期，请重发",
-        "en": "Code expired, please get a new one"
+        "en": "Code expired, please get a new one",
+        "tc": "驗證碼過期，請重發"
       },
     "10003": {
         "zh": "服务暂时不可用，请稍后再试",
-        "en": "Service is temporarily unavailable, please retry later"
+        "en": "Service is temporarily unavailable, please retry later",
+        "tc": "服務暫時不可用，請稍後再試"
       },
     "usability not executed": {
         "zh": "Jumio系统错误",
-        "en": "Jumio Technical error"
+        "en": "Jumio Technical error",
+        "tc": "Jumio系統錯誤"
       },
     "usability not passed": {
         "zh": "Jumio验证信息不符合要求",
-        "en": "unqualified info for Jumio"
+        "en": "unqualified info for Jumio",
+        "tc": "Jumio驗證信息不符合要求"
       },
     "imagechecks not executed": {
         "zh": "Jumio系统错误",
-        "en": "Jumio Technical error"
+        "en": "Jumio Technical error",
+        "tc": "Jumio系統錯誤"
       },
     "imagechecks not passed": {
         "zh": "照片不符合Jumio要求",
-        "en": "unqualified photo for Jumio"
+        "en": "unqualified photo for Jumio",
+        "tc": "照片不符合Jumio要求"
       },
     "extraction not executed": {
         "zh": "Jumio系统错误",
-        "en": "Jumio Technical error"
+        "en": "Jumio Technical error",
+        "tc": "Jumio系統錯誤"
       },
     "datachecks not executed": {
         "zh": "Jumio系统错误",
-        "en": "Jumio Technical error"
+        "en": "Jumio Technical error",
+        "tc": "Jumio系統錯誤"
       },
     "datachecks not passed": {
         "zh": "证件信息未通过Jumio审核",
-        "en": "Jumio datacheck rejected"
+        "en": "Jumio datacheck rejected",
+        "tc": "證件信息未通過Jumio審核"
       },
     "liveness not executed": {
         "zh": "Jumio系统错误",
-        "en": "Jumio Technical error"
+        "en": "Jumio Technical error",
+        "tc": "Jumio系統錯誤"
       },
     "liveness not passed": {
         "zh": "Jumio活体检测未通过",
-        "en": "Jumio liveness check rejected"
+        "en": "Jumio liveness check rejected",
+        "tc": "Jumio活體檢測未通過"
       },
     "similarity not executed": {
         "zh": "Jumio系统错误",
-        "en": "Jumio Technical error"
+        "en": "Jumio Technical error",
+        "tc": "Jumio系統錯誤"
       },
     "similarity not passed": {
         "zh": "Jumio相似度检测未通过",
-        "en": "Jumio similarity check rejected"
+        "en": "Jumio similarity check rejected",
+        "tc": "Jumio相似度檢測未通過"
       },
     "20002_/api/v1/account/phone:POST": {
         "zh": "手机号码已存在",
-        "en": "The phone number already existed in the system"
+        "en": "The phone number already existed in the system",
+        "tc": "手機號碼已存在"
       },
     "20002_/api/v1/account/email:POST": {
         "zh": "邮箱地址已存在",
-        "en": "The E-mail address already existed in the system"
+        "en": "The E-mail address already existed in the system",
+        "tc": "郵箱地址已存在"
       },
     "20050_/api/v1/account/phone:POST": {
         "zh": "手机验证码错误",
-        "en": "Incorrect phone code"
+        "en": "Incorrect phone code",
+        "tc": "手機驗證碼錯誤"
       },
     "20051_/api/v1/account/phone:POST": {
         "zh": "手机验证码错误多次，请重发",
-        "en": "Incorrect phone code, please get a new one"
+        "en": "Incorrect phone code, please get a new one",
+        "tc": "手機驗證碼錯誤多次，請重發"
       },
     "20049_/api/v1/account/phone:POST": {
         "zh": "手机验证码过期，请重发",
-        "en": "Phone code expired, please get a new one"
+        "en": "Phone code expired, please get a new one",
+        "tc": "手機驗證碼過期，請重發"
       },
     "20050_/api/v1/account/email:POST": {
         "zh": "邮箱验证码错误",
-        "en": "Incorrect e-mail code"
+        "en": "Incorrect e-mail code",
+        "tc": "郵箱驗證碼錯誤"
       },
     "20051_/api/v1/account/email:POST": {
         "zh": "邮箱验证码错误多次，请重发",
-        "en": "Incorrect email code, please get a new one"
+        "en": "Incorrect email code, please get a new one",
+        "tc": "郵箱驗證碼錯誤多次，請重發"
       },
     "20049_/api/v1/account/email:POST": {
         "zh": "邮箱验证码过期，请重发",
-        "en": "E-mail code expired, please get a new one"
+        "en": "E-mail code expired, please get a new one",
+        "tc": "郵箱驗證碼過期，請重發"
       },
     "20025_/api/v1/wallet/{id}/asset/{assetname}/address:GET": {
         "zh": "该币种充值暂停",
-        "en": "Deposit temporarily suspended"
+        "en": "Deposit temporarily suspended",
+        "tc": "該幣種充值暫停"
       },
     "20052": {
         "zh": "您已被管理员禁用，请联系客服处理",
-        "en": "You are disabled by administrator, please contact us"
+        "en": "You are disabled by administrator, please contact us",
+        "tc": "您已被管理員禁用，請聯系客服處理"
       },
     "20008_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "钱包密码错误",
-        "en": "Wallet password error"
+        "en": "Wallet password error",
+        "tc": "錢包密碼錯誤"
       },
     "20053_/api/v1/funding/transfer:POST": {
         "zh": "接收钱包ID错误",
-        "en": "Receiving wallet ID error"
+        "en": "Receiving wallet ID error",
+        "tc": "接收錢包ID錯誤"
       },
     "20024_/api/v1/wallet/{id}/asset/{assetname}/address:GET": {
         "zh": "该钱包充值暂停",
-        "en": "Deposit temporarily suspended for this wallet"
+        "en": "Deposit temporarily suspended for this wallet",
+        "tc": "該錢包充值暫停"
       },
     "20053_/api/v1/walletInfo:GET": {
         "zh": "钱包不存在",
-        "en": "Wallet not found"
+        "en": "Wallet not found",
+        "tc": "錢包不存在"
       },
     "20009_/api/v1/wallet/{id}/asset/{assetname}/order:POST": {
         "zh": "数量必须大于最小提现额度",
-        "en": "Too small amount"
+        "en": "Too small amount",
+        "tc": "數量必須大於最小提現額度"
       },
     "20054_/api/v1/funding/transfer:POST": {
         "zh": "对方用户已被冻结，无法转账",
-        "en": "Destination client has been frozen, cannot transfer"
+        "en": "Destination client has been frozen, cannot transfer",
+        "tc": "對方用戶已被凍結，無法轉賬"
       }
     }
-   
