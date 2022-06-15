@@ -31,9 +31,10 @@ app 可以根据此状态判断是否已经进行了 jumio 认证
 
 变动：
 ```javascript
-response error code 添加
-20047 -- Jumio Acquired，jumio认证已提交
-20048 -- Jumio Processed，jumio认证已结束
+response body 添加字段 jumioWorkflowStatus:
+{
+    jumioWorkflowStatus: "INITIATED"   // INITIATED/ACQUIRED/PROCESSED/SESSION_EXPIRED/TOKEN_EXPIRED，具体值说明见 apipost
+}
 ```
 
 ***
