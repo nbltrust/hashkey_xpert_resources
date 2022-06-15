@@ -43,7 +43,7 @@ response body 添加字段 jumioWorkflowStatus:
 web端 jumio 是同步获取结果的，不需要知道 jumio workflow 的状态
 
 对App端的影响分析：
-app 可以根据此返回码判断是否已经进行了 jumio 认证
+app 可以根据此状态判断是否已经进行了 jumio 认证
 
 ***
 
