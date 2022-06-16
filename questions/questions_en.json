@@ -33,7 +33,7 @@
                 "1~3 Years",
                 "3~5 Years",
                 "5~10 Years",
-                "Over 10 years"
+                "Over 10 Years"
             ],
             "required": true,
             "lastUserInput": false
@@ -78,7 +78,7 @@
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "Names of exchanges and wallet providers"
+            "hintText": "Enter names of other exchanges and wallet providers"
         }, {
             "key": "hashKeyContact",
             "type": "single",

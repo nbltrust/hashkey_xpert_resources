@@ -78,7 +78,7 @@
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "請輸入交易所或錢包的名稱"
+            "hintText": "請輸入其他交易所或錢包的名稱"
         }, {
             "key": "hashKeyContact",
             "type": "single",
