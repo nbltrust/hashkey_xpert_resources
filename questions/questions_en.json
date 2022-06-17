@@ -78,7 +78,7 @@
             ],
             "required": true,
             "lastUserInput": true,
-            "hintText": "Enter names of other exchanges and wallet providers"
+            "hintText": "Enter names of exchanges/wallet providers"
         }, {
             "key": "hashKeyContact",
             "type": "single",
