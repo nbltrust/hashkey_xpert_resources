@@ -13,6 +13,7 @@
         "emojiU": "U+1F1E6 U+1F1E9",
         "zh-cn": "安道尔",
         "en": "Andorra",
+        "zh-hant": "安道爾",
         "alpha2": "AD",
         "alpha3": "AND"
     },
@@ -30,6 +31,7 @@
         "emojiU": "U+1F1E6 U+1F1EA",
         "zh-cn": "阿联酋",
         "en": "United Arab Emirates",
+        "zh-hant": "阿聯酋",
         "alpha2": "AE",
         "alpha3": "ARE"
     },
@@ -49,6 +51,7 @@
         "emojiU": "U+1F1E6 U+1F1EB",
         "zh-cn": "阿富汗",
         "en": "Afghanistan",
+        "zh-hant": "阿富汗",
         "alpha2": "AF",
         "alpha3": "AFG"
     },
@@ -66,6 +69,7 @@
         "emojiU": "U+1F1E6 U+1F1EC",
         "zh-cn": "安提瓜和巴布达",
         "en": "Antigua and Barbuda",
+        "zh-hant": "安提瓜和巴布達",
         "alpha2": "AG",
         "alpha3": "ATG"
     },
@@ -83,6 +87,7 @@
         "emojiU": "U+1F1E6 U+1F1EE",
         "zh-cn": "安圭拉",
         "en": "Anguilla",
+        "zh-hant": "安圭拉",
         "alpha2": "AI",
         "alpha3": "AIA"
     },
@@ -100,6 +105,7 @@
         "emojiU": "U+1F1E6 U+1F1F1",
         "zh-cn": "阿尔巴尼亚",
         "en": "Albania",
+        "zh-hant": "阿爾巴尼亞",
         "alpha2": "AL",
         "alpha3": "ALB"
     },
@@ -118,6 +124,7 @@
         "emojiU": "U+1F1E6 U+1F1F2",
         "zh-cn": "亚美尼亚",
         "en": "Armenia",
+        "zh-hant": "亞美尼亞",
         "alpha2": "AM",
         "alpha3": "ARM"
     },
@@ -135,6 +142,7 @@
         "emojiU": "U+1F1E6 U+1F1F4",
         "zh-cn": "安哥拉",
         "en": "Angola",
+        "zh-hant": "安哥拉",
         "alpha2": "AO",
         "alpha3": "AGO"
     },
@@ -150,6 +158,7 @@
         "emojiU": "U+1F1E6 U+1F1F6",
         "zh-cn": "南极洲",
         "en": "Antarctica",
+        "zh-hant": "南極洲",
         "alpha2": "AQ",
         "alpha3": "ATA"
     },
@@ -168,6 +177,7 @@
         "emojiU": "U+1F1E6 U+1F1F7",
         "zh-cn": "阿根廷",
         "en": "Argentina",
+        "zh-hant": "阿根廷",
         "alpha2": "AR",
         "alpha3": "ARG"
     },
@@ -186,6 +196,7 @@
         "emojiU": "U+1F1E6 U+1F1F8",
         "zh-cn": "美属萨摩亚",
         "en": "American Samoa",
+        "zh-hant": "美屬薩摩亞",
         "alpha2": "AS",
         "alpha3": "ASM"
     },
@@ -203,6 +214,7 @@
         "emojiU": "U+1F1E6 U+1F1F9",
         "zh-cn": "奥地利",
         "en": "Austria",
+        "zh-hant": "奧地利",
         "alpha2": "AT",
         "alpha3": "AUT"
     },
@@ -220,6 +232,7 @@
         "emojiU": "U+1F1E6 U+1F1FA",
         "zh-cn": "澳大利亚",
         "en": "Australia",
+        "zh-hant": "澳大利亞",
         "alpha2": "AU",
         "alpha3": "AUS"
     },
@@ -238,6 +251,7 @@
         "emojiU": "U+1F1E6 U+1F1FC",
         "zh-cn": "阿鲁巴",
         "en": "Aruba",
+        "zh-hant": "阿魯巴",
         "alpha2": "AW",
         "alpha3": "ABW"
     },
@@ -255,6 +269,7 @@
         "emojiU": "U+1F1E6 U+1F1FD",
         "zh-cn": "奥兰",
         "en": "Åland Islands",
+        "zh-hant": "奧蘭",
         "alpha2": "AX",
         "alpha3": "ALA"
     },
@@ -272,6 +287,7 @@
         "emojiU": "U+1F1E6 U+1F1FF",
         "zh-cn": "阿塞拜疆",
         "en": "Azerbaijan",
+        "zh-hant": "阿塞拜疆",
         "alpha2": "AZ",
         "alpha3": "AZE"
     },
@@ -291,6 +307,7 @@
         "emojiU": "U+1F1E7 U+1F1E6",
         "zh-cn": "波黑",
         "en": "Bosnia and Herzegovina",
+        "zh-hant": "波黑",
         "alpha2": "BA",
         "alpha3": "BIH"
     },
@@ -308,6 +325,7 @@
         "emojiU": "U+1F1E7 U+1F1E7",
         "zh-cn": "巴巴多斯",
         "en": "Barbados",
+        "zh-hant": "巴巴多斯",
         "alpha2": "BB",
         "alpha3": "BRB"
     },
@@ -325,6 +343,7 @@
         "emojiU": "U+1F1E7 U+1F1E9",
         "zh-cn": "孟加拉国",
         "en": "Bangladesh",
+        "zh-hant": "孟加拉國",
         "alpha2": "BD",
         "alpha3": "BGD"
     },
@@ -344,6 +363,7 @@
         "emojiU": "U+1F1E7 U+1F1EA",
         "zh-cn": "比利时",
         "en": "Belgium",
+        "zh-hant": "比利時",
         "alpha2": "BE",
         "alpha3": "BEL"
     },
@@ -362,6 +382,7 @@
         "emojiU": "U+1F1E7 U+1F1EB",
         "zh-cn": "布基纳法索",
         "en": "Burkina",
+        "zh-hant": "布基納法索",
         "alpha2": "BF",
         "alpha3": "BFA"
     },
@@ -379,6 +400,7 @@
         "emojiU": "U+1F1E7 U+1F1EC",
         "zh-cn": "保加利亚",
         "en": "Bulgaria",
+        "zh-hant": "保加利亞",
         "alpha2": "BG",
         "alpha3": "BGR"
     },
@@ -396,6 +418,7 @@
         "emojiU": "U+1F1E7 U+1F1ED",
         "zh-cn": "巴林",
         "en": "Bahrain",
+        "zh-hant": "巴林",
         "alpha2": "BH",
         "alpha3": "BHR"
     },
@@ -414,6 +437,7 @@
         "emojiU": "U+1F1E7 U+1F1EE",
         "zh-cn": "布隆迪",
         "en": "Burundi",
+        "zh-hant": "布隆迪",
         "alpha2": "BI",
         "alpha3": "BDI"
     },
@@ -431,6 +455,7 @@
         "emojiU": "U+1F1E7 U+1F1EF",
         "zh-cn": "贝宁",
         "en": "Benin",
+        "zh-hant": "貝寧",
         "alpha2": "BJ",
         "alpha3": "BEN"
     },
@@ -448,6 +473,7 @@
         "emojiU": "U+1F1E7 U+1F1F1",
         "zh-cn": "圣巴泰勒米岛",
         "en": "Saint Barthélemy",
+        "zh-hant": "聖巴泰勒米島",
         "alpha2": "BL",
         "alpha3": "BLM"
     },
@@ -465,6 +491,7 @@
         "emojiU": "U+1F1E7 U+1F1F2",
         "zh-cn": "百慕大",
         "en": "Bermuda",
+        "zh-hant": "百慕大",
         "alpha2": "BM",
         "alpha3": "BMU"
     },
@@ -482,6 +509,7 @@
         "emojiU": "U+1F1E7 U+1F1F3",
         "zh-cn": "文莱",
         "en": "Brunei",
+        "zh-hant": "文萊",
         "alpha2": "BN",
         "alpha3": "BRN"
     },
@@ -501,6 +529,7 @@
         "emojiU": "U+1F1E7 U+1F1F4",
         "zh-cn": "玻利维亚",
         "en": "Bolivia",
+        "zh-hant": "玻利維亞",
         "alpha2": "BO",
         "alpha3": "BOL"
     },
@@ -518,6 +547,7 @@
         "emojiU": "U+1F1E7 U+1F1F6",
         "zh-cn": "荷兰加勒比区",
         "en": "Caribbean Netherlands",
+        "zh-hant": "荷蘭加勒比區",
         "alpha2": "BQ",
         "alpha3": "BES"
     },
@@ -535,6 +565,7 @@
         "emojiU": "U+1F1E7 U+1F1F7",
         "zh-cn": "巴西",
         "en": "Brazil",
+        "zh-hant": "巴西",
         "alpha2": "BR",
         "alpha3": "BRA"
     },
@@ -552,6 +583,7 @@
         "emojiU": "U+1F1E7 U+1F1F8",
         "zh-cn": "巴哈马",
         "en": "Bahamas",
+        "zh-hant": "巴哈馬",
         "alpha2": "BS",
         "alpha3": "BHS"
     },
@@ -569,6 +601,7 @@
         "emojiU": "U+1F1E7 U+1F1F9",
         "zh-cn": "不丹",
         "en": "Bhutan",
+        "zh-hant": "不丹",
         "alpha2": "BT",
         "alpha3": "BTN"
     },
@@ -588,6 +621,7 @@
         "emojiU": "U+1F1E7 U+1F1FB",
         "zh-cn": "布韦岛",
         "en": "Bouvet Island",
+        "zh-hant": "布韋島",
         "alpha2": "BV",
         "alpha3": "BVT"
     },
@@ -606,6 +640,7 @@
         "emojiU": "U+1F1E7 U+1F1FC",
         "zh-cn": "博茨瓦纳",
         "en": "Botswana",
+        "zh-hant": "博茨瓦納",
         "alpha2": "BW",
         "alpha3": "BWA"
     },
@@ -624,6 +659,7 @@
         "emojiU": "U+1F1E7 U+1F1FE",
         "zh-cn": "白俄罗斯",
         "en": "Belarus",
+        "zh-hant": "白俄羅斯",
         "alpha2": "BY",
         "alpha3": "BLR"
     },
@@ -642,6 +678,7 @@
         "emojiU": "U+1F1E7 U+1F1FF",
         "zh-cn": "伯利兹",
         "en": "Belize",
+        "zh-hant": "伯利茲",
         "alpha2": "BZ",
         "alpha3": "BLZ"
     },
@@ -660,6 +697,7 @@
         "emojiU": "U+1F1E8 U+1F1E6",
         "zh-cn": "加拿大",
         "en": "Canada",
+        "zh-hant": "加拿大",
         "alpha2": "CA",
         "alpha3": "CAN"
     },
@@ -677,6 +715,7 @@
         "emojiU": "U+1F1E8 U+1F1E8",
         "zh-cn": "科科斯（基林）群岛",
         "en": "Cocos (Keeling) Islands",
+        "zh-hant": "科科斯（基林）群島",
         "alpha2": "CC",
         "alpha3": "CCK"
     },
@@ -698,6 +737,7 @@
         "emojiU": "U+1F1E8 U+1F1E9",
         "zh-cn": "刚果（金）",
         "en": "Democratic Republic of the  Congo",
+        "zh-hant": "剛果（金）",
         "alpha2": "CD",
         "alpha3": "COD"
     },
@@ -716,6 +756,7 @@
         "emojiU": "U+1F1E8 U+1F1EB",
         "zh-cn": "中非",
         "en": "Central African Republic",
+        "zh-hant": "中非",
         "alpha2": "CF",
         "alpha3": "CAF"
     },
@@ -734,6 +775,7 @@
         "emojiU": "U+1F1E8 U+1F1EC",
         "zh-cn": "刚果（布）",
         "en": "Congo",
+        "zh-hant": "剛果（布）",
         "alpha2": "CG",
         "alpha3": "COG"
     },
@@ -753,6 +795,7 @@
         "emojiU": "U+1F1E8 U+1F1ED",
         "zh-cn": "瑞士",
         "en": "Switzerland",
+        "zh-hant": "瑞士",
         "alpha2": "CH",
         "alpha3": "CHE"
     },
@@ -770,6 +813,7 @@
         "emojiU": "U+1F1E8 U+1F1EE",
         "zh-cn": "科特迪瓦",
         "en": "Cote d'Ivoire",
+        "zh-hant": "科特迪瓦",
         "alpha2": "CI",
         "alpha3": "CIV"
     },
@@ -787,6 +831,7 @@
         "emojiU": "U+1F1E8 U+1F1F0",
         "zh-cn": "库克群岛",
         "en": "Cook Islands",
+        "zh-hant": "庫克群島",
         "alpha2": "CK",
         "alpha3": "COK"
     },
@@ -804,6 +849,7 @@
         "emojiU": "U+1F1E8 U+1F1F1",
         "zh-cn": "智利",
         "en": "Chile",
+        "zh-hant": "智利",
         "alpha2": "CL",
         "alpha3": "CHL"
     },
@@ -822,6 +868,7 @@
         "emojiU": "U+1F1E8 U+1F1F2",
         "zh-cn": "喀麦隆",
         "en": "Cameroon",
+        "zh-hant": "喀麥隆",
         "alpha2": "CM",
         "alpha3": "CMR"
     },
@@ -839,6 +886,7 @@
         "emojiU": "U+1F1E8 U+1F1F3",
         "zh-cn": "中国大陆",
         "en": "China",
+        "zh-hant": "中國大陸",
         "alpha2": "CN",
         "alpha3": "CHN"
     },
@@ -856,6 +904,7 @@
         "emojiU": "U+1F1E8 U+1F1F4",
         "zh-cn": "哥伦比亚",
         "en": "Colombia",
+        "zh-hant": "哥倫比亞",
         "alpha2": "CO",
         "alpha3": "COL"
     },
@@ -873,6 +922,7 @@
         "emojiU": "U+1F1E8 U+1F1F7",
         "zh-cn": "哥斯达黎加",
         "en": "Costa Rica",
+        "zh-hant": "哥斯達黎加",
         "alpha2": "CR",
         "alpha3": "CRI"
     },
@@ -890,6 +940,7 @@
         "emojiU": "U+1F1E8 U+1F1FA",
         "zh-cn": "古巴",
         "en": "Cuba",
+        "zh-hant": "古巴",
         "alpha2": "CU",
         "alpha3": "CUB"
     },
@@ -907,6 +958,7 @@
         "emojiU": "U+1F1E8 U+1F1FB",
         "zh-cn": "佛得角",
         "en": "Cape Verde",
+        "zh-hant": "佛得角",
         "alpha2": "CV",
         "alpha3": "CPV"
     },
@@ -926,6 +978,7 @@
         "emojiU": "U+1F1E8 U+1F1FC",
         "zh-cn": "库拉索",
         "en": "Curaçao",
+        "zh-hant": "庫拉索",
         "alpha2": "CW",
         "alpha3": "CUW"
     },
@@ -943,6 +996,7 @@
         "emojiU": "U+1F1E8 U+1F1FD",
         "zh-cn": "圣诞岛",
         "en": "Christmas Island",
+        "zh-hant": "聖誕島",
         "alpha2": "CX",
         "alpha3": "CXR"
     },
@@ -962,6 +1016,7 @@
         "emojiU": "U+1F1E8 U+1F1FE",
         "zh-cn": "塞浦路斯",
         "en": "Cyprus",
+        "zh-hant": "塞浦路斯",
         "alpha2": "CY",
         "alpha3": "CYP"
     },
@@ -980,6 +1035,7 @@
         "emojiU": "U+1F1E8 U+1F1FF",
         "zh-cn": "捷克",
         "en": "Czech Republic",
+        "zh-hant": "捷克",
         "alpha2": "CZ",
         "alpha3": "CZE"
     },
@@ -997,6 +1053,7 @@
         "emojiU": "U+1F1E9 U+1F1EA",
         "zh-cn": "德国",
         "en": "Germany",
+        "zh-hant": "德國",
         "alpha2": "DE",
         "alpha3": "DEU"
     },
@@ -1015,6 +1072,7 @@
         "emojiU": "U+1F1E9 U+1F1EF",
         "zh-cn": "吉布提",
         "en": "Djibouti",
+        "zh-hant": "吉布提",
         "alpha2": "DJ",
         "alpha3": "DJI"
     },
@@ -1032,6 +1090,7 @@
         "emojiU": "U+1F1E9 U+1F1F0",
         "zh-cn": "丹麦",
         "en": "Denmark",
+        "zh-hant": "丹麥",
         "alpha2": "DK",
         "alpha3": "DNK"
     },
@@ -1049,6 +1108,7 @@
         "emojiU": "U+1F1E9 U+1F1F2",
         "zh-cn": "多米尼克",
         "en": "Dominica",
+        "zh-hant": "多米尼克",
         "alpha2": "DM",
         "alpha3": "DMA"
     },
@@ -1066,6 +1126,7 @@
         "emojiU": "U+1F1E9 U+1F1F4",
         "zh-cn": "多米尼加",
         "en": "Dominican Republic",
+        "zh-hant": "多米尼加",
         "alpha2": "DO",
         "alpha3": "DOM"
     },
@@ -1083,6 +1144,7 @@
         "emojiU": "U+1F1E9 U+1F1FF",
         "zh-cn": "阿尔及利亚",
         "en": "Algeria",
+        "zh-hant": "阿爾及利亞",
         "alpha2": "DZ",
         "alpha3": "DZA"
     },
@@ -1100,6 +1162,7 @@
         "emojiU": "U+1F1EA U+1F1E8",
         "zh-cn": "厄瓜多尔",
         "en": "Ecuador",
+        "zh-hant": "厄瓜多爾",
         "alpha2": "EC",
         "alpha3": "ECU"
     },
@@ -1117,6 +1180,7 @@
         "emojiU": "U+1F1EA U+1F1EA",
         "zh-cn": "爱沙尼亚",
         "en": "Estonia",
+        "zh-hant": "愛沙尼亞",
         "alpha2": "EE",
         "alpha3": "EST"
     },
@@ -1134,6 +1198,7 @@
         "emojiU": "U+1F1EA U+1F1EC",
         "zh-cn": "埃及",
         "en": "Egypt",
+        "zh-hant": "埃及",
         "alpha2": "EG",
         "alpha3": "EGY"
     },
@@ -1151,6 +1216,7 @@
         "emojiU": "U+1F1EA U+1F1ED",
         "zh-cn": "阿拉伯撒哈拉民主共和国",
         "en": "Western Sahara",
+        "zh-hant": "阿拉伯撒哈拉民主共和國",
         "alpha2": "EH",
         "alpha3": "ESH"
     },
@@ -1170,6 +1236,7 @@
         "emojiU": "U+1F1EA U+1F1F7",
         "zh-cn": "厄立特里亚",
         "en": "Eritrea",
+        "zh-hant": "厄立特裏亞",
         "alpha2": "ER",
         "alpha3": "ERI"
     },
@@ -1191,6 +1258,7 @@
         "emojiU": "U+1F1EA U+1F1F8",
         "zh-cn": "西班牙",
         "en": "Spain",
+        "zh-hant": "西班牙",
         "alpha2": "ES",
         "alpha3": "ESP"
     },
@@ -1208,6 +1276,7 @@
         "emojiU": "U+1F1EA U+1F1F9",
         "zh-cn": "埃塞俄比亚",
         "en": "Ethiopia",
+        "zh-hant": "埃塞俄比亞",
         "alpha2": "ET",
         "alpha3": "ETH"
     },
@@ -1226,6 +1295,7 @@
         "emojiU": "U+1F1EB U+1F1EE",
         "zh-cn": "芬兰",
         "en": "Finland",
+        "zh-hant": "芬蘭",
         "alpha2": "FI",
         "alpha3": "FIN"
     },
@@ -1246,6 +1316,7 @@
         "emojiU": "U+1F1EB U+1F1EF",
         "zh-cn": "斐济群岛",
         "en": "Fiji",
+        "zh-hant": "斐濟群島",
         "alpha2": "FJ",
         "alpha3": "FJI"
     },
@@ -1263,6 +1334,7 @@
         "emojiU": "U+1F1EB U+1F1F0",
         "zh-cn": "福克兰群岛（马尔维纳斯）",
         "en": "Falkland Islands (Islas  Malvinas)",
+        "zh-hant": "福克蘭群島（馬爾維納斯）",
         "alpha2": "FK",
         "alpha3": "FLK"
     },
@@ -1280,6 +1352,7 @@
         "emojiU": "U+1F1EB U+1F1F2",
         "zh-cn": "密克罗尼西亚联邦",
         "en": "Micronesia",
+        "zh-hant": "密克羅尼西亞聯邦",
         "alpha2": "FM",
         "alpha3": "FSM"
     },
@@ -1297,6 +1370,7 @@
         "emojiU": "U+1F1EB U+1F1F4",
         "zh-cn": "法罗群岛",
         "en": "Faroe Islands",
+        "zh-hant": "法羅群島",
         "alpha2": "FO",
         "alpha3": "FRO"
     },
@@ -1314,6 +1388,7 @@
         "emojiU": "U+1F1EB U+1F1F7",
         "zh-cn": "法国",
         "en": "France",
+        "zh-hant": "法國",
         "alpha2": "FR",
         "alpha3": "FRA"
     },
@@ -1331,6 +1406,7 @@
         "emojiU": "U+1F1EC U+1F1E6",
         "zh-cn": "加蓬",
         "en": "Gabon",
+        "zh-hant": "加蓬",
         "alpha2": "GA",
         "alpha3": "GAB"
     },
@@ -1348,6 +1424,7 @@
         "emojiU": "U+1F1EC U+1F1E7",
         "zh-cn": "英国",
         "en": "United Kingdom",
+        "zh-hant": "英國",
         "alpha2": "GB",
         "alpha3": "GBR"
     },
@@ -1365,6 +1442,7 @@
         "emojiU": "U+1F1EC U+1F1E9",
         "zh-cn": "格林纳达",
         "en": "Grenada",
+        "zh-hant": "格林納達",
         "alpha2": "GD",
         "alpha3": "GRD"
     },
@@ -1382,6 +1460,7 @@
         "emojiU": "U+1F1EC U+1F1EA",
         "zh-cn": "格鲁吉亚",
         "en": "Georgia",
+        "zh-hant": "格魯吉亞",
         "alpha2": "GE",
         "alpha3": "GEO"
     },
@@ -1399,6 +1478,7 @@
         "emojiU": "U+1F1EC U+1F1EB",
         "zh-cn": "法属圭亚那",
         "en": "French Guiana",
+        "zh-hant": "法屬圭亞那",
         "alpha2": "GF",
         "alpha3": "GUF"
     },
@@ -1417,6 +1497,7 @@
         "emojiU": "U+1F1EC U+1F1EC",
         "zh-cn": "根西",
         "en": "Guernsey",
+        "zh-hant": "根西",
         "alpha2": "GG",
         "alpha3": "GGY"
     },
@@ -1434,6 +1515,7 @@
         "emojiU": "U+1F1EC U+1F1ED",
         "zh-cn": "加纳",
         "en": "Ghana",
+        "zh-hant": "加納",
         "alpha2": "GH",
         "alpha3": "GHA"
     },
@@ -1451,6 +1533,7 @@
         "emojiU": "U+1F1EC U+1F1EE",
         "zh-cn": "直布罗陀",
         "en": "Gibraltar",
+        "zh-hant": "直布羅陀",
         "alpha2": "GI",
         "alpha3": "GIB"
     },
@@ -1468,6 +1551,7 @@
         "emojiU": "U+1F1EC U+1F1F1",
         "zh-cn": "格陵兰",
         "en": "Greenland",
+        "zh-hant": "格陵蘭",
         "alpha2": "GL",
         "alpha3": "GRL"
     },
@@ -1485,6 +1569,7 @@
         "emojiU": "U+1F1EC U+1F1F2",
         "zh-cn": "冈比亚",
         "en": "Gambia",
+        "zh-hant": "岡比亞",
         "alpha2": "GM",
         "alpha3": "GMB"
     },
@@ -1503,6 +1588,7 @@
         "emojiU": "U+1F1EC U+1F1F3",
         "zh-cn": "几内亚",
         "en": "Guinea",
+        "zh-hant": "幾內亞",
         "alpha2": "GN",
         "alpha3": "GIN"
     },
@@ -1520,6 +1606,7 @@
         "emojiU": "U+1F1EC U+1F1F5",
         "zh-cn": "瓜德罗普",
         "en": "Guadeloupe",
+        "zh-hant": "瓜德羅普",
         "alpha2": "GP",
         "alpha3": "GLP"
     },
@@ -1538,6 +1625,7 @@
         "emojiU": "U+1F1EC U+1F1F6",
         "zh-cn": "赤道几内亚",
         "en": "Equatorial Guinea",
+        "zh-hant": "赤道幾內亞",
         "alpha2": "GQ",
         "alpha3": "GNQ"
     },
@@ -1555,6 +1643,7 @@
         "emojiU": "U+1F1EC U+1F1F7",
         "zh-cn": "希腊",
         "en": "Greece",
+        "zh-hant": "希臘",
         "alpha2": "GR",
         "alpha3": "GRC"
     },
@@ -1572,6 +1661,7 @@
         "emojiU": "U+1F1EC U+1F1F8",
         "zh-cn": "南乔治亚和南桑威奇群岛",
         "en": "South Georgia and the South Sandwich Islands",
+        "zh-hant": "南喬治亞和南桑威奇群島",
         "alpha2": "GS",
         "alpha3": "SGS"
     },
@@ -1589,6 +1679,7 @@
         "emojiU": "U+1F1EC U+1F1F9",
         "zh-cn": "危地马拉",
         "en": "Guatemala",
+        "zh-hant": "危地馬拉",
         "alpha2": "GT",
         "alpha3": "GTM"
     },
@@ -1608,6 +1699,7 @@
         "emojiU": "U+1F1EC U+1F1FA",
         "zh-cn": "关岛",
         "en": "Guam",
+        "zh-hant": "關島",
         "alpha2": "GU",
         "alpha3": "GUM"
     },
@@ -1625,6 +1717,7 @@
         "emojiU": "U+1F1EC U+1F1FC",
         "zh-cn": "几内亚比绍",
         "en": "Guinea-Bissau",
+        "zh-hant": "幾內亞比紹",
         "alpha2": "GW",
         "alpha3": "GNB"
     },
@@ -1642,6 +1735,7 @@
         "emojiU": "U+1F1EC U+1F1FE",
         "zh-cn": "圭亚那",
         "en": "Guyana",
+        "zh-hant": "圭亞那",
         "alpha2": "GY",
         "alpha3": "GUY"
     },
@@ -1660,6 +1754,7 @@
         "emojiU": "U+1F1ED U+1F1F0",
         "zh-cn": "中国香港",
         "en": "Hong Kong, China",
+        "zh-hant": "中國香港",
         "alpha2": "HK",
         "alpha3": "HKG"
     },
@@ -1677,6 +1772,7 @@
         "emojiU": "U+1F1ED U+1F1F2",
         "zh-cn": "赫德岛和麦克唐纳群岛",
         "en": "Heard Island and McDonald Islands",
+        "zh-hant": "赫德島和麥克唐納群島",
         "alpha2": "HM",
         "alpha3": "HMD"
     },
@@ -1694,6 +1790,7 @@
         "emojiU": "U+1F1ED U+1F1F3",
         "zh-cn": "洪都拉斯",
         "en": "Honduras",
+        "zh-hant": "洪都拉斯",
         "alpha2": "HN",
         "alpha3": "HND"
     },
@@ -1711,6 +1808,7 @@
         "emojiU": "U+1F1ED U+1F1F7",
         "zh-cn": "克罗地亚",
         "en": "Croatia",
+        "zh-hant": "克羅地亞",
         "alpha2": "HR",
         "alpha3": "HRV"
     },
@@ -1729,6 +1827,7 @@
         "emojiU": "U+1F1ED U+1F1F9",
         "zh-cn": "海地",
         "en": "Haiti",
+        "zh-hant": "海地",
         "alpha2": "HT",
         "alpha3": "HTI"
     },
@@ -1746,6 +1845,7 @@
         "emojiU": "U+1F1ED U+1F1FA",
         "zh-cn": "匈牙利",
         "en": "Hungary",
+        "zh-hant": "匈牙利",
         "alpha2": "HU",
         "alpha3": "HUN"
     },
@@ -1763,6 +1863,7 @@
         "emojiU": "U+1F1EE U+1F1E9",
         "zh-cn": "印度尼西亚",
         "en": "Indonesia",
+        "zh-hant": "印度尼西亞",
         "alpha2": "ID",
         "alpha3": "IDN"
     },
@@ -1781,6 +1882,7 @@
         "emojiU": "U+1F1EE U+1F1EA",
         "zh-cn": "爱尔兰",
         "en": "Ireland",
+        "zh-hant": "愛爾蘭",
         "alpha2": "IE",
         "alpha3": "IRL"
     },
@@ -1799,6 +1901,7 @@
         "emojiU": "U+1F1EE U+1F1F1",
         "zh-cn": "以色列",
         "en": "Israel",
+        "zh-hant": "以色列",
         "alpha2": "IL",
         "alpha3": "ISR"
     },
@@ -1817,6 +1920,7 @@
         "emojiU": "U+1F1EE U+1F1F2",
         "zh-cn": "马恩岛",
         "en": "Heard Island and McDonald Islands",
+        "zh-hant": "馬恩島",
         "alpha2": "IM",
         "alpha3": "IMN"
     },
@@ -1835,6 +1939,7 @@
         "emojiU": "U+1F1EE U+1F1F3",
         "zh-cn": "印度",
         "en": "India",
+        "zh-hant": "印度",
         "alpha2": "IN",
         "alpha3": "IND"
     },
@@ -1852,6 +1957,7 @@
         "emojiU": "U+1F1EE U+1F1F4",
         "zh-cn": "英属印度洋领地",
         "en": "British Indian Ocean  Territory",
+        "zh-hant": "英屬印度洋領地",
         "alpha2": "IO",
         "alpha3": "IOT"
     },
@@ -1870,6 +1976,7 @@
         "emojiU": "U+1F1EE U+1F1F6",
         "zh-cn": "伊拉克",
         "en": "Iraq",
+        "zh-hant": "伊拉克",
         "alpha2": "IQ",
         "alpha3": "IRQ"
     },
@@ -1887,6 +1994,7 @@
         "emojiU": "U+1F1EE U+1F1F7",
         "zh-cn": "伊朗",
         "en": "Iran",
+        "zh-hant": "伊朗",
         "alpha2": "IR",
         "alpha3": "IRN"
     },
@@ -1904,6 +2012,7 @@
         "emojiU": "U+1F1EE U+1F1F8",
         "zh-cn": "冰岛",
         "en": "Iceland",
+        "zh-hant": "冰島",
         "alpha2": "IS",
         "alpha3": "ISL"
     },
@@ -1921,6 +2030,7 @@
         "emojiU": "U+1F1EE U+1F1F9",
         "zh-cn": "意大利",
         "en": "Italy",
+        "zh-hant": "意大利",
         "alpha2": "IT",
         "alpha3": "ITA"
     },
@@ -1939,6 +2049,7 @@
         "emojiU": "U+1F1EF U+1F1EA",
         "zh-cn": "泽西",
         "en": "Jersey",
+        "zh-hant": "澤西",
         "alpha2": "JE",
         "alpha3": "JEY"
     },
@@ -1956,6 +2067,7 @@
         "emojiU": "U+1F1EF U+1F1F2",
         "zh-cn": "牙买加",
         "en": "Jamaica",
+        "zh-hant": "牙買加",
         "alpha2": "JM",
         "alpha3": "JAM"
     },
@@ -1973,6 +2085,7 @@
         "emojiU": "U+1F1EF U+1F1F4",
         "zh-cn": "约旦",
         "en": "Jordan",
+        "zh-hant": "約旦",
         "alpha2": "JO",
         "alpha3": "JOR"
     },
@@ -1990,6 +2103,7 @@
         "emojiU": "U+1F1EF U+1F1F5",
         "zh-cn": "日本",
         "en": "Japan",
+        "zh-hant": "日本",
         "alpha2": "JP",
         "alpha3": "JPN"
     },
@@ -2008,6 +2122,7 @@
         "emojiU": "U+1F1F0 U+1F1EA",
         "zh-cn": "肯尼亚",
         "en": "Kenya",
+        "zh-hant": "肯尼亞",
         "alpha2": "KE",
         "alpha3": "KEN"
     },
@@ -2026,6 +2141,7 @@
         "emojiU": "U+1F1F0 U+1F1EC",
         "zh-cn": "吉尔吉斯斯坦",
         "en": "Kyrgyzstan",
+        "zh-hant": "吉爾吉斯斯坦",
         "alpha2": "KG",
         "alpha3": "KGZ"
     },
@@ -2043,6 +2159,7 @@
         "emojiU": "U+1F1F0 U+1F1ED",
         "zh-cn": "柬埔寨",
         "en": "Cambodia",
+        "zh-hant": "柬埔寨",
         "alpha2": "KH",
         "alpha3": "KHM"
     },
@@ -2060,6 +2177,7 @@
         "emojiU": "U+1F1F0 U+1F1EE",
         "zh-cn": "基里巴斯",
         "en": "Kiribati",
+        "zh-hant": "基裏巴斯",
         "alpha2": "KI",
         "alpha3": "KIR"
     },
@@ -2078,6 +2196,7 @@
         "emojiU": "U+1F1F0 U+1F1F2",
         "zh-cn": "科摩罗",
         "en": "Comoros",
+        "zh-hant": "科摩羅",
         "alpha2": "KM",
         "alpha3": "COM"
     },
@@ -2095,6 +2214,7 @@
         "emojiU": "U+1F1F0 U+1F1F3",
         "zh-cn": "圣基茨和尼维斯",
         "en": "Saint Kitts and Nevis",
+        "zh-hant": "聖基茨和尼維斯",
         "alpha2": "KN",
         "alpha3": "KNA"
     },
@@ -2112,6 +2232,7 @@
         "emojiU": "U+1F1F0 U+1F1F5",
         "zh-cn": "朝鲜",
         "en": "North Korea",
+        "zh-hant": "朝鮮",
         "alpha2": "KP",
         "alpha3": "PRK"
     },
@@ -2129,6 +2250,7 @@
         "emojiU": "U+1F1F0 U+1F1F7",
         "zh-cn": "韩国",
         "en": "South Korea",
+        "zh-hant": "韓國",
         "alpha2": "KR",
         "alpha3": "KOR"
     },
@@ -2146,6 +2268,7 @@
         "emojiU": "U+1F1F0 U+1F1FC",
         "zh-cn": "科威特",
         "en": "Kuwait",
+        "zh-hant": "科威特",
         "alpha2": "KW",
         "alpha3": "KWT"
     },
@@ -2163,6 +2286,7 @@
         "emojiU": "U+1F1F0 U+1F1FE",
         "zh-cn": "开曼群岛",
         "en": "Cayman Islands",
+        "zh-hant": "開曼群島",
         "alpha2": "KY",
         "alpha3": "CYM"
     },
@@ -2181,6 +2305,7 @@
         "emojiU": "U+1F1F0 U+1F1FF",
         "zh-cn": "哈萨克斯坦",
         "en": "Kazakhstan",
+        "zh-hant": "哈薩克斯坦",
         "alpha2": "KZ",
         "alpha3": "KAZ"
     },
@@ -2198,6 +2323,7 @@
         "emojiU": "U+1F1F1 U+1F1E6",
         "zh-cn": "老挝",
         "en": "Laos",
+        "zh-hant": "老撾",
         "alpha2": "LA",
         "alpha3": "LAO"
     },
@@ -2216,6 +2342,7 @@
         "emojiU": "U+1F1F1 U+1F1E7",
         "zh-cn": "黎巴嫩",
         "en": "Lebanon",
+        "zh-hant": "黎巴嫩",
         "alpha2": "LB",
         "alpha3": "LBN"
     },
@@ -2233,6 +2360,7 @@
         "emojiU": "U+1F1F1 U+1F1E8",
         "zh-cn": "圣卢西亚",
         "en": "Saint Lucia",
+        "zh-hant": "聖盧西亞",
         "alpha2": "LC",
         "alpha3": "LCA"
     },
@@ -2250,6 +2378,7 @@
         "emojiU": "U+1F1F1 U+1F1EE",
         "zh-cn": "列支敦士登",
         "en": "Liechtenstein",
+        "zh-hant": "列支敦士登",
         "alpha2": "LI",
         "alpha3": "LIE"
     },
@@ -2268,6 +2397,7 @@
         "emojiU": "U+1F1F1 U+1F1F0",
         "zh-cn": "斯里兰卡",
         "en": "Sri Lanka",
+        "zh-hant": "斯裏蘭卡",
         "alpha2": "LK",
         "alpha3": "LKA"
     },
@@ -2285,6 +2415,7 @@
         "emojiU": "U+1F1F1 U+1F1F7",
         "zh-cn": "利比里亚",
         "en": "Liberia",
+        "zh-hant": "利比裏亞",
         "alpha2": "LR",
         "alpha3": "LBR"
     },
@@ -2303,6 +2434,7 @@
         "emojiU": "U+1F1F1 U+1F1F8",
         "zh-cn": "莱索托",
         "en": "Lesotho",
+        "zh-hant": "萊索托",
         "alpha2": "LS",
         "alpha3": "LSO"
     },
@@ -2320,6 +2452,7 @@
         "emojiU": "U+1F1F1 U+1F1F9",
         "zh-cn": "立陶宛",
         "en": "Lithuania",
+        "zh-hant": "立陶宛",
         "alpha2": "LT",
         "alpha3": "LTU"
     },
@@ -2339,6 +2472,7 @@
         "emojiU": "U+1F1F1 U+1F1FA",
         "zh-cn": "卢森堡",
         "en": "Luxembourg",
+        "zh-hant": "盧森堡",
         "alpha2": "LU",
         "alpha3": "LUX"
     },
@@ -2356,6 +2490,7 @@
         "emojiU": "U+1F1F1 U+1F1FB",
         "zh-cn": "拉脱维亚",
         "en": "Latvia",
+        "zh-hant": "拉脫維亞",
         "alpha2": "LV",
         "alpha3": "LVA"
     },
@@ -2373,6 +2508,7 @@
         "emojiU": "U+1F1F1 U+1F1FE",
         "zh-cn": "利比亚",
         "en": "Libya",
+        "zh-hant": "利比亚",
         "alpha2": "LY",
         "alpha3": "LBY"
     },
@@ -2390,6 +2526,7 @@
         "emojiU": "U+1F1F2 U+1F1E6",
         "zh-cn": "摩洛哥",
         "en": "Morocco",
+        "zh-hant": "摩洛哥",
         "alpha2": "MA",
         "alpha3": "MAR"
     },
@@ -2407,6 +2544,7 @@
         "emojiU": "U+1F1F2 U+1F1E8",
         "zh-cn": "摩纳哥",
         "en": "Monaco",
+        "zh-hant": "摩納哥",
         "alpha2": "MC",
         "alpha3": "MCO"
     },
@@ -2424,6 +2562,7 @@
         "emojiU": "U+1F1F2 U+1F1E9",
         "zh-cn": "摩尔多瓦",
         "en": "Moldova",
+        "zh-hant": "摩爾多瓦",
         "alpha2": "MD",
         "alpha3": "MDA"
     },
@@ -2444,6 +2583,7 @@
         "emojiU": "U+1F1F2 U+1F1EA",
         "zh-cn": "黑山",
         "en": "Montenegro",
+        "zh-hant": "黑山",
         "alpha2": "ME",
         "alpha3": "MNE"
     },
@@ -2463,6 +2603,7 @@
         "emojiU": "U+1F1F2 U+1F1EB",
         "zh-cn": "法属圣马丁",
         "en": "Saint Martin (France)",
+        "zh-hant": "法屬聖馬丁",
         "alpha2": "MF",
         "alpha3": "MAF"
     },
@@ -2481,6 +2622,7 @@
         "emojiU": "U+1F1F2 U+1F1EC",
         "zh-cn": "马达加斯加",
         "en": "Madagascar",
+        "zh-hant": "馬達加斯加",
         "alpha2": "MG",
         "alpha3": "MDG"
     },
@@ -2499,6 +2641,7 @@
         "emojiU": "U+1F1F2 U+1F1ED",
         "zh-cn": "马绍尔群岛",
         "en": "Marshall Islands",
+        "zh-hant": "馬紹爾群島",
         "alpha2": "MH",
         "alpha3": "MHL"
     },
@@ -2516,6 +2659,7 @@
         "emojiU": "U+1F1F2 U+1F1F0",
         "zh-cn": "马其顿",
         "en": "Macedonia (FYROM)",
+        "zh-hant": "馬其頓",
         "alpha2": "MK",
         "alpha3": "MKD"
     },
@@ -2533,6 +2677,7 @@
         "emojiU": "U+1F1F2 U+1F1F1",
         "zh-cn": "马里",
         "en": "Mali",
+        "zh-hant": "馬裏",
         "alpha2": "ML",
         "alpha3": "MLI"
     },
@@ -2550,6 +2695,7 @@
         "emojiU": "U+1F1F2 U+1F1F2",
         "zh-cn": "缅甸",
         "en": "Myanmar",
+        "zh-hant": "緬甸",
         "alpha2": "MM",
         "alpha3": "MMR"
     },
@@ -2567,6 +2713,7 @@
         "emojiU": "U+1F1F2 U+1F1F3",
         "zh-cn": "蒙古",
         "en": "Mongolia",
+        "zh-hant": "蒙古",
         "alpha2": "MN",
         "alpha3": "MNG"
     },
@@ -2585,6 +2732,7 @@
         "emojiU": "U+1F1F2 U+1F1F4",
         "zh-cn": "中国澳门",
         "en": "Macao, China",
+        "zh-hant": "中國澳門",
         "alpha2": "MO",
         "alpha3": "MAC"
     },
@@ -2603,6 +2751,7 @@
         "emojiU": "U+1F1F2 U+1F1F5",
         "zh-cn": "北马里亚纳群岛",
         "en": "Northern Mariana Islands",
+        "zh-hant": "北馬裏亞納群島",
         "alpha2": "MP",
         "alpha3": "MNP"
     },
@@ -2620,6 +2769,7 @@
         "emojiU": "U+1F1F2 U+1F1F6",
         "zh-cn": "马提尼克",
         "en": "Martinique",
+        "zh-hant": "馬提尼克",
         "alpha2": "MQ",
         "alpha3": "MTQ"
     },
@@ -2637,6 +2787,7 @@
         "emojiU": "U+1F1F2 U+1F1F7",
         "zh-cn": "毛里塔尼亚",
         "en": "Mauritania",
+        "zh-hant": "毛裏塔尼亞",
         "alpha2": "MR",
         "alpha3": "MRT"
     },
@@ -2654,6 +2805,7 @@
         "emojiU": "U+1F1F2 U+1F1F8",
         "zh-cn": "蒙特塞拉特",
         "en": "Montserrat",
+        "zh-hant": "蒙特塞拉特",
         "alpha2": "MS",
         "alpha3": "MSR"
     },
@@ -2672,6 +2824,7 @@
         "emojiU": "U+1F1F2 U+1F1F9",
         "zh-cn": "马耳他",
         "en": "Malta",
+        "zh-hant": "馬耳他",
         "alpha2": "MT",
         "alpha3": "MLT"
     },
@@ -2689,6 +2842,7 @@
         "emojiU": "U+1F1F2 U+1F1FA",
         "zh-cn": "毛里求斯",
         "en": "Mauritius",
+        "zh-hant": "毛裏求斯",
         "alpha2": "MU",
         "alpha3": "MUS"
     },
@@ -2706,6 +2860,7 @@
         "emojiU": "U+1F1F2 U+1F1FB",
         "zh-cn": "马尔代夫",
         "en": "Maldives",
+        "zh-hant": "馬爾代夫",
         "alpha2": "MV",
         "alpha3": "MDV"
     },
@@ -2724,6 +2879,7 @@
         "emojiU": "U+1F1F2 U+1F1FC",
         "zh-cn": "马拉维",
         "en": "Malawi",
+        "zh-hant": "馬拉維",
         "alpha2": "MW",
         "alpha3": "MWI"
     },
@@ -2741,6 +2897,7 @@
         "emojiU": "U+1F1F2 U+1F1FD",
         "zh-cn": "墨西哥",
         "en": "Mexico",
+        "zh-hant": "墨西哥",
         "alpha2": "MX",
         "alpha3": "MEX"
     },
@@ -2758,6 +2915,7 @@
         "emojiU": "U+1F1F2 U+1F1FE",
         "zh-cn": "马来西亚",
         "en": "Malaysia",
+        "zh-hant": "馬來西亞",
         "alpha2": "MY",
         "alpha3": "MYS"
     },
@@ -2775,6 +2933,7 @@
         "emojiU": "U+1F1F2 U+1F1FF",
         "zh-cn": "莫桑比克",
         "en": "Mozambique",
+        "zh-hant": "莫桑比克",
         "alpha2": "MZ",
         "alpha3": "MOZ"
     },
@@ -2793,6 +2952,7 @@
         "emojiU": "U+1F1F3 U+1F1E6",
         "zh-cn": "纳米比亚",
         "en": "Namibia",
+        "zh-hant": "納米比亞",
         "alpha2": "NA",
         "alpha3": "NAM"
     },
@@ -2810,6 +2970,7 @@
         "emojiU": "U+1F1F3 U+1F1E8",
         "zh-cn": "新喀里多尼亚",
         "en": "New Caledonia",
+        "zh-hant": "新喀裏多尼亞",
         "alpha2": "NC",
         "alpha3": "NCL"
     },
@@ -2827,6 +2988,7 @@
         "emojiU": "U+1F1F3 U+1F1EA",
         "zh-cn": "尼日尔",
         "en": "Niger",
+        "zh-hant": "尼日爾",
         "alpha2": "NE",
         "alpha3": "NER"
     },
@@ -2844,6 +3006,7 @@
         "emojiU": "U+1F1F3 U+1F1EB",
         "zh-cn": "诺福克岛",
         "en": "Norfolk Island",
+        "zh-hant": "諾福克島",
         "alpha2": "NF",
         "alpha3": "NFK"
     },
@@ -2861,6 +3024,7 @@
         "emojiU": "U+1F1F3 U+1F1EC",
         "zh-cn": "尼日利亚",
         "en": "Nigeria",
+        "zh-hant": "尼日利亞",
         "alpha2": "NG",
         "alpha3": "NGA"
     },
@@ -2878,6 +3042,7 @@
         "emojiU": "U+1F1F3 U+1F1EE",
         "zh-cn": "尼加拉瓜",
         "en": "Nicaragua",
+        "zh-hant": "尼加拉瓜",
         "alpha2": "NI",
         "alpha3": "NIC"
     },
@@ -2895,6 +3060,7 @@
         "emojiU": "U+1F1F3 U+1F1F1",
         "zh-cn": "荷兰",
         "en": "Netherlands",
+        "zh-hant": "荷蘭",
         "alpha2": "NL",
         "alpha3": "NLD"
     },
@@ -2914,6 +3080,7 @@
         "emojiU": "U+1F1F3 U+1F1F4",
         "zh-cn": "挪威",
         "en": "Norway",
+        "zh-hant": "挪威",
         "alpha2": "NO",
         "alpha3": "NOR"
     },
@@ -2931,6 +3098,7 @@
         "emojiU": "U+1F1F3 U+1F1F5",
         "zh-cn": "尼泊尔",
         "en": "Nepal",
+        "zh-hant": "尼泊爾",
         "alpha2": "NP",
         "alpha3": "NPL"
     },
@@ -2949,6 +3117,7 @@
         "emojiU": "U+1F1F3 U+1F1F7",
         "zh-cn": "瑙鲁",
         "en": "Nauru",
+        "zh-hant": "瑙魯",
         "alpha2": "NR",
         "alpha3": "NRU"
     },
@@ -2966,6 +3135,7 @@
         "emojiU": "U+1F1F3 U+1F1FA",
         "zh-cn": "纽埃",
         "en": "Niue",
+        "zh-hant": "紐埃",
         "alpha2": "NU",
         "alpha3": "NIU"
     },
@@ -2984,6 +3154,7 @@
         "emojiU": "U+1F1F3 U+1F1FF",
         "zh-cn": "新西兰",
         "en": "New Zealand",
+        "zh-hant": "新西蘭",
         "alpha2": "NZ",
         "alpha3": "NZL"
     },
@@ -3001,6 +3172,7 @@
         "emojiU": "U+1F1F4 U+1F1F2",
         "zh-cn": "阿曼",
         "en": "Oman",
+        "zh-hant": "阿曼",
         "alpha2": "OM",
         "alpha3": "OMN"
     },
@@ -3018,6 +3190,7 @@
         "emojiU": "U+1F1F5 U+1F1E6",
         "zh-cn": "巴拿马",
         "en": "Panama",
+        "zh-hant": "巴拿馬",
         "alpha2": "PA",
         "alpha3": "PAN"
     },
@@ -3035,6 +3208,7 @@
         "emojiU": "U+1F1F5 U+1F1EA",
         "zh-cn": "秘鲁",
         "en": "Peru",
+        "zh-hant": "秘魯",
         "alpha2": "PE",
         "alpha3": "PER"
     },
@@ -3052,6 +3226,7 @@
         "emojiU": "U+1F1F5 U+1F1EB",
         "zh-cn": "法属波利尼西亚",
         "en": "French Polynesia",
+        "zh-hant": "法屬波利尼西亞",
         "alpha2": "PF",
         "alpha3": "PYF"
     },
@@ -3069,6 +3244,7 @@
         "emojiU": "U+1F1F5 U+1F1EC",
         "zh-cn": "巴布亚新几内亚",
         "en": "Papua New Guinea",
+        "zh-hant": "巴布亞新幾內亞",
         "alpha2": "PG",
         "alpha3": "PNG"
     },
@@ -3086,6 +3262,7 @@
         "emojiU": "U+1F1F5 U+1F1ED",
         "zh-cn": "菲律宾",
         "en": "Philippines",
+        "zh-hant": "菲律賓",
         "alpha2": "PH",
         "alpha3": "PHL"
     },
@@ -3104,6 +3281,7 @@
         "emojiU": "U+1F1F5 U+1F1F0",
         "zh-cn": "巴基斯坦",
         "en": "Pakistan",
+        "zh-hant": "巴基斯坦",
         "alpha2": "PK",
         "alpha3": "PAK"
     },
@@ -3121,6 +3299,7 @@
         "emojiU": "U+1F1F5 U+1F1F1",
         "zh-cn": "波兰",
         "en": "Poland",
+        "zh-hant": "波蘭",
         "alpha2": "PL",
         "alpha3": "POL"
     },
@@ -3138,6 +3317,7 @@
         "emojiU": "U+1F1F5 U+1F1F2",
         "zh-cn": "圣皮埃尔和密克隆",
         "en": "Saint Pierre and Miquelon",
+        "zh-hant": "聖皮埃爾和密克隆",
         "alpha2": "PM",
         "alpha3": "SPM"
     },
@@ -3155,6 +3335,7 @@
         "emojiU": "U+1F1F5 U+1F1F3",
         "zh-cn": "皮特凯恩群岛",
         "en": "Pitcairn",
+        "zh-hant": "皮特凱恩群島",
         "alpha2": "PN",
         "alpha3": "PCN"
     },
@@ -3173,6 +3354,7 @@
         "emojiU": "U+1F1F5 U+1F1F7",
         "zh-cn": "波多黎各",
         "en": "Puerto Rico",
+        "zh-hant": "波多黎各",
         "alpha2": "PR",
         "alpha3": "PRI"
     },
@@ -3190,6 +3372,7 @@
         "emojiU": "U+1F1F5 U+1F1F8",
         "zh-cn": "巴勒斯坦",
         "en": "Palestinian territories",
+        "zh-hant": "巴勒斯坦",
         "alpha2": "PS",
         "alpha3": "PSE"
     },
@@ -3207,6 +3390,7 @@
         "emojiU": "U+1F1F5 U+1F1F9",
         "zh-cn": "葡萄牙",
         "en": "Portugal",
+        "zh-hant": "葡萄牙",
         "alpha2": "PT",
         "alpha3": "PRT"
     },
@@ -3224,6 +3408,7 @@
         "emojiU": "U+1F1F5 U+1F1FC",
         "zh-cn": "帕劳",
         "en": "Palau",
+        "zh-hant": "帕勞",
         "alpha2": "PW",
         "alpha3": "PLW"
     },
@@ -3242,6 +3427,7 @@
         "emojiU": "U+1F1F5 U+1F1FE",
         "zh-cn": "巴拉圭",
         "en": "Paraguay",
+        "zh-hant": "巴拉圭",
         "alpha2": "PY",
         "alpha3": "PRY"
     },
@@ -3259,6 +3445,7 @@
         "emojiU": "U+1F1F6 U+1F1E6",
         "zh-cn": "卡塔尔",
         "en": "Qatar",
+        "zh-hant": "卡塔爾",
         "alpha2": "QA",
         "alpha3": "QAT"
     },
@@ -3276,6 +3463,7 @@
         "emojiU": "U+1F1F7 U+1F1EA",
         "zh-cn": "留尼汪",
         "en": "Réunion",
+        "zh-hant": "留尼汪",
         "alpha2": "RE",
         "alpha3": "REU"
     },
@@ -3293,6 +3481,7 @@
         "emojiU": "U+1F1F7 U+1F1F4",
         "zh-cn": "罗马尼亚",
         "en": "Romania",
+        "zh-hant": "羅馬尼亞",
         "alpha2": "RO",
         "alpha3": "ROU"
     },
@@ -3310,6 +3499,7 @@
         "emojiU": "U+1F1F7 U+1F1F8",
         "zh-cn": "塞尔维亚",
         "en": "Serbia",
+        "zh-hant": "塞爾維亞",
         "alpha2": "RS",
         "alpha3": "SRB"
     },
@@ -3327,6 +3517,7 @@
         "emojiU": "U+1F1F7 U+1F1FA",
         "zh-cn": "俄罗斯",
         "en": "Russian Federation",
+        "zh-hant": "俄羅斯",
         "alpha2": "RU",
         "alpha3": "RUS"
     },
@@ -3346,6 +3537,7 @@
         "emojiU": "U+1F1F7 U+1F1FC",
         "zh-cn": "卢旺达",
         "en": "Rwanda",
+        "zh-hant": "盧旺達",
         "alpha2": "RW",
         "alpha3": "RWA"
     },
@@ -3363,6 +3555,7 @@
         "emojiU": "U+1F1F8 U+1F1E6",
         "zh-cn": "沙特阿拉伯",
         "en": "Saudi Arabia",
+        "zh-hant": "沙特阿拉伯",
         "alpha2": "SA",
         "alpha3": "SAU"
     },
@@ -3380,6 +3573,7 @@
         "emojiU": "U+1F1F8 U+1F1E7",
         "zh-cn": "所罗门群岛",
         "en": "Solomon Islands",
+        "zh-hant": "所羅門群島",
         "alpha2": "SB",
         "alpha3": "SLB"
     },
@@ -3398,6 +3592,7 @@
         "emojiU": "U+1F1F8 U+1F1E8",
         "zh-cn": "塞舌尔",
         "en": "Seychelles",
+        "zh-hant": "塞舌爾",
         "alpha2": "SC",
         "alpha3": "SYC"
     },
@@ -3416,6 +3611,7 @@
         "emojiU": "U+1F1F8 U+1F1E9",
         "zh-cn": "苏丹",
         "en": "Sudan",
+        "zh-hant": "蘇丹",
         "alpha2": "SD",
         "alpha3": "SDN"
     },
@@ -3433,6 +3629,7 @@
         "emojiU": "U+1F1F8 U+1F1EA",
         "zh-cn": "瑞典",
         "en": "Sweden",
+        "zh-hant": "瑞典",
         "alpha2": "SE",
         "alpha3": "SWE"
     },
@@ -3453,6 +3650,7 @@
         "emojiU": "U+1F1F8 U+1F1EC",
         "zh-cn": "新加坡",
         "en": "Singapore",
+        "zh-hant": "新加坡",
         "alpha2": "SG",
         "alpha3": "SGP"
     },
@@ -3470,6 +3668,7 @@
         "emojiU": "U+1F1F8 U+1F1ED",
         "zh-cn": "圣赫勒拿",
         "en": "Saint Helena",
+        "zh-hant": "聖赫勒拿",
         "alpha2": "SH",
         "alpha3": "SHN"
     },
@@ -3487,6 +3686,7 @@
         "emojiU": "U+1F1F8 U+1F1EE",
         "zh-cn": "斯洛文尼亚",
         "en": "Slovenia",
+        "zh-hant": "斯洛文尼亞",
         "alpha2": "SI",
         "alpha3": "SVN"
     },
@@ -3504,6 +3704,7 @@
         "emojiU": "U+1F1F8 U+1F1EF",
         "zh-cn": "斯瓦尔巴和扬马延",
         "en": "Svalbard and Jan Mayen",
+        "zh-hant": "斯瓦爾巴和揚馬延",
         "alpha2": "SJ",
         "alpha3": "SJM"
     },
@@ -3521,6 +3722,7 @@
         "emojiU": "U+1F1F8 U+1F1F0",
         "zh-cn": "斯洛伐克",
         "en": "Slovakia",
+        "zh-hant": "斯洛伐克",
         "alpha2": "SK",
         "alpha3": "SVK"
     },
@@ -3538,6 +3740,7 @@
         "emojiU": "U+1F1F8 U+1F1F1",
         "zh-cn": "塞拉利昂",
         "en": "Sierra Leone",
+        "zh-hant": "塞拉利昂",
         "alpha2": "SL",
         "alpha3": "SLE"
     },
@@ -3555,6 +3758,7 @@
         "emojiU": "U+1F1F8 U+1F1F2",
         "zh-cn": "圣马力诺",
         "en": "San Marino",
+        "zh-hant": "聖馬力諾",
         "alpha2": "SM",
         "alpha3": "SMR"
     },
@@ -3572,6 +3776,7 @@
         "emojiU": "U+1F1F8 U+1F1F3",
         "zh-cn": "塞内加尔",
         "en": "Senegal",
+        "zh-hant": "塞內加爾",
         "alpha2": "SN",
         "alpha3": "SEN"
     },
@@ -3590,6 +3795,7 @@
         "emojiU": "U+1F1F8 U+1F1F4",
         "zh-cn": "索马里",
         "en": "Somalia",
+        "zh-hant": "索馬裏",
         "alpha2": "SO",
         "alpha3": "SOM"
     },
@@ -3607,6 +3813,7 @@
         "emojiU": "U+1F1F8 U+1F1F7",
         "zh-cn": "苏里南",
         "en": "Suriname",
+        "zh-hant": "蘇裏南",
         "alpha2": "SR",
         "alpha3": "SUR"
     },
@@ -3624,6 +3831,7 @@
         "emojiU": "U+1F1F8 U+1F1F8",
         "zh-cn": "南苏丹",
         "en": "South Sudan",
+        "zh-hant": "南蘇丹",
         "alpha2": "SS",
         "alpha3": "SSD"
     },
@@ -3641,6 +3849,7 @@
         "emojiU": "U+1F1F8 U+1F1F9",
         "zh-cn": "圣多美和普林西比",
         "en": "Sao Tome and Principe",
+        "zh-hant": "聖多美和普林西比",
         "alpha2": "ST",
         "alpha3": "STP"
     },
@@ -3658,6 +3867,7 @@
         "emojiU": "U+1F1F8 U+1F1FB",
         "zh-cn": "萨尔瓦多",
         "en": "El Salvador",
+        "zh-hant": "薩爾瓦多",
         "alpha2": "SV",
         "alpha3": "SLV"
     },
@@ -3676,6 +3886,7 @@
         "emojiU": "U+1F1F8 U+1F1FD",
         "zh-cn": "荷属圣马丁",
         "en": "Sint Maarten",
+        "zh-hant": "荷屬聖馬丁",
         "alpha2": "SX",
         "alpha3": "SXM"
     },
@@ -3693,6 +3904,7 @@
         "emojiU": "U+1F1F8 U+1F1FE",
         "zh-cn": "叙利亚",
         "en": "Syria",
+        "zh-hant": "敘利亞",
         "alpha2": "SY",
         "alpha3": "SYR"
     },
@@ -3711,6 +3923,7 @@
         "emojiU": "U+1F1F8 U+1F1FF",
         "zh-cn": "斯威士兰",
         "en": "Swaziland",
+        "zh-hant": "斯威士蘭",
         "alpha2": "SZ",
         "alpha3": "SWZ"
     },
@@ -3728,6 +3941,7 @@
         "emojiU": "U+1F1F9 U+1F1E8",
         "zh-cn": "特克斯和凯科斯群岛",
         "en": "Turks and Caicos Islands",
+        "zh-hant": "特克斯和凱科斯群島",
         "alpha2": "TC",
         "alpha3": "TCA"
     },
@@ -3746,6 +3960,7 @@
         "emojiU": "U+1F1F9 U+1F1E9",
         "zh-cn": "乍得",
         "en": "Chad",
+        "zh-hant": "乍得",
         "alpha2": "TD",
         "alpha3": "TCD"
     },
@@ -3763,6 +3978,7 @@
         "emojiU": "U+1F1F9 U+1F1EB",
         "zh-cn": "法属南部和南极领地",
         "en": "French Southern Territories",
+        "zh-hant": "法屬南部和南極領地",
         "alpha2": "TF",
         "alpha3": "ATF"
     },
@@ -3780,6 +3996,7 @@
         "emojiU": "U+1F1F9 U+1F1EC",
         "zh-cn": "多哥",
         "en": "Togo",
+        "zh-hant": "多哥",
         "alpha2": "TG",
         "alpha3": "TGO"
     },
@@ -3797,6 +4014,7 @@
         "emojiU": "U+1F1F9 U+1F1ED",
         "zh-cn": "泰国",
         "en": "Thailand",
+        "zh-hant": "泰國",
         "alpha2": "TH",
         "alpha3": "THA"
     },
@@ -3815,6 +4033,7 @@
         "emojiU": "U+1F1F9 U+1F1EF",
         "zh-cn": "塔吉克斯坦",
         "en": "Tajikistan",
+        "zh-hant": "塔吉克斯坦",
         "alpha2": "TJ",
         "alpha3": "TJK"
     },
@@ -3832,6 +4051,7 @@
         "emojiU": "U+1F1F9 U+1F1F0",
         "zh-cn": "托克劳",
         "en": "Tokelau",
+        "zh-hant": "托克勞",
         "alpha2": "TK",
         "alpha3": "TKL"
     },
@@ -3849,6 +4069,7 @@
         "emojiU": "U+1F1F9 U+1F1F1",
         "zh-cn": "东帝汶",
         "en": "Timor-Leste (East Timor)",
+        "zh-hant": "東帝汶",
         "alpha2": "TL",
         "alpha3": "TLS"
     },
@@ -3867,6 +4088,7 @@
         "emojiU": "U+1F1F9 U+1F1F2",
         "zh-cn": "土库曼斯坦",
         "en": "Turkmenistan",
+        "zh-hant": "土庫曼斯坦",
         "alpha2": "TM",
         "alpha3": "TKM"
     },
@@ -3884,6 +4106,7 @@
         "emojiU": "U+1F1F9 U+1F1F3",
         "zh-cn": "突尼斯",
         "en": "Tunisia",
+        "zh-hant": "突尼斯",
         "alpha2": "TN",
         "alpha3": "TUN"
     },
@@ -3902,6 +4125,7 @@
         "emojiU": "U+1F1F9 U+1F1F4",
         "zh-cn": "汤加",
         "en": "Tonga",
+        "zh-hant": "湯加",
         "alpha2": "TO",
         "alpha3": "TON"
     },
@@ -3919,6 +4143,7 @@
         "emojiU": "U+1F1F9 U+1F1F7",
         "zh-cn": "土耳其",
         "en": "Turkey",
+        "zh-hant": "土耳其",
         "alpha2": "TR",
         "alpha3": "TUR"
     },
@@ -3936,6 +4161,7 @@
         "emojiU": "U+1F1F9 U+1F1F9",
         "zh-cn": "特立尼达和多巴哥",
         "en": "Trinidad and Tobago",
+        "zh-hant": "特立尼達和多巴哥",
         "alpha2": "TT",
         "alpha3": "TTO"
     },
@@ -3953,6 +4179,7 @@
         "emojiU": "U+1F1F9 U+1F1FB",
         "zh-cn": "图瓦卢",
         "en": "Tuvalu",
+        "zh-hant": "圖瓦盧",
         "alpha2": "TV",
         "alpha3": "TUV"
     },
@@ -3970,6 +4197,7 @@
         "emojiU": "U+1F1F9 U+1F1FC",
         "zh-cn": "中国台湾",
         "en": "Taiwan, China",
+        "zh-hant": "中國臺灣",
         "alpha2": "TW",
         "alpha3": "TWN"
     },
@@ -3988,6 +4216,7 @@
         "emojiU": "U+1F1F9 U+1F1FF",
         "zh-cn": "坦桑尼亚",
         "en": "Tanzania",
+        "zh-hant": "坦桑尼亞",
         "alpha2": "TZ",
         "alpha3": "TZA"
     },
@@ -4005,6 +4234,7 @@
         "emojiU": "U+1F1FA U+1F1E6",
         "zh-cn": "乌克兰",
         "en": "Ukraine",
+        "zh-hant": "烏克蘭",
         "alpha2": "UA",
         "alpha3": "UKR"
     },
@@ -4023,6 +4253,7 @@
         "emojiU": "U+1F1FA U+1F1EC",
         "zh-cn": "乌干达",
         "en": "Uganda",
+        "zh-hant": "烏幹達",
         "alpha2": "UG",
         "alpha3": "UGA"
     },
@@ -4040,6 +4271,7 @@
         "emojiU": "U+1F1FA U+1F1F2",
         "zh-cn": "美国本土外小岛屿",
         "en": "United States Minor Outlying Islands",
+        "zh-hant": "美國本土外小島嶼",
         "alpha2": "UM",
         "alpha3": "UMI"
     },
@@ -4057,6 +4289,7 @@
         "emojiU": "U+1F1FA U+1F1F8",
         "zh-cn": "美国",
         "en": "United States of America (USA)",
+        "zh-hant": "美國",
         "alpha2": "US",
         "alpha3": "USA"
     },
@@ -4074,6 +4307,7 @@
         "emojiU": "U+1F1FA U+1F1FE",
         "zh-cn": "乌拉圭",
         "en": "Uruguay",
+        "zh-hant": "烏拉圭",
         "alpha2": "UY",
         "alpha3": "URY"
     },
@@ -4092,6 +4326,7 @@
         "emojiU": "U+1F1FA U+1F1FF",
         "zh-cn": "乌兹别克斯坦",
         "en": "Uzbekistan",
+        "zh-hant": "烏茲別克斯坦",
         "alpha2": "UZ",
         "alpha3": "UZB"
     },
@@ -4110,6 +4345,7 @@
         "emojiU": "U+1F1FB U+1F1E6",
         "zh-cn": "梵蒂冈",
         "en": "Vatican City (The Holy See)",
+        "zh-hant": "梵蒂岡",
         "alpha2": "VA",
         "alpha3": "VAT"
     },
@@ -4127,6 +4363,7 @@
         "emojiU": "U+1F1FB U+1F1E8",
         "zh-cn": "圣文森特和格林纳丁斯",
         "en": "Saint Vincent and the Grenadines",
+        "zh-hant": "聖文森特和格林納丁斯",
         "alpha2": "VC",
         "alpha3": "VCT"
     },
@@ -4144,6 +4381,7 @@
         "emojiU": "U+1F1FB U+1F1EA",
         "zh-cn": "委内瑞拉",
         "en": "Venezuela",
+        "zh-hant": "委內瑞拉",
         "alpha2": "VE",
         "alpha3": "VEN"
     },
@@ -4161,6 +4399,7 @@
         "emojiU": "U+1F1FB U+1F1EC",
         "zh-cn": "英属维尔京群岛",
         "en": "British Virgin Islands",
+        "zh-hant": "英屬維爾京群島",
         "alpha2": "VG",
         "alpha3": "VGB"
     },
@@ -4178,6 +4417,7 @@
         "emojiU": "U+1F1FB U+1F1EE",
         "zh-cn": "美属维尔京群岛",
         "en": "United States Virgin Islands",
+        "zh-hant": "美屬維爾京群島",
         "alpha2": "VI",
         "alpha3": "VIR"
     },
@@ -4195,6 +4435,7 @@
         "emojiU": "U+1F1FB U+1F1F3",
         "zh-cn": "越南",
         "en": "Viet Nam",
+        "zh-hant": "越南",
         "alpha2": "VN",
         "alpha3": "VNM"
     },
@@ -4214,6 +4455,7 @@
         "emojiU": "U+1F1FB U+1F1FA",
         "zh-cn": "瓦努阿图",
         "en": "Vanuatu",
+        "zh-hant": "瓦努阿圖",
         "alpha2": "VU",
         "alpha3": "VUT"
     },
@@ -4231,6 +4473,7 @@
         "emojiU": "U+1F1FC U+1F1EB",
         "zh-cn": "瓦利斯和富图纳",
         "en": "Wallis and Futuna",
+        "zh-hant": "瓦利斯和富圖納",
         "alpha2": "WF",
         "alpha3": "WLF"
     },
@@ -4249,6 +4492,7 @@
         "emojiU": "U+1F1FC U+1F1F8",
         "zh-cn": "萨摩亚",
         "en": "Samoa",
+        "zh-hant": "薩摩亞",
         "alpha2": "WS",
         "alpha3": "WSM"
     },
@@ -4266,6 +4510,7 @@
         "emojiU": "U+1F1FE U+1F1EA",
         "zh-cn": "也门",
         "en": "Yemen",
+        "zh-hant": "也門",
         "alpha2": "YE",
         "alpha3": "YEM"
     },
@@ -4283,6 +4528,7 @@
         "emojiU": "U+1F1FE U+1F1F9",
         "zh-cn": "马约特",
         "en": "Mayotte",
+        "zh-hant": "馬約特",
         "alpha2": "YT",
         "alpha3": "MYT"
     },
@@ -4309,6 +4555,7 @@
         "emojiU": "U+1F1FF U+1F1E6",
         "zh-cn": "南非",
         "en": "South Africa",
+        "zh-hant": "南非",
         "alpha2": "ZA",
         "alpha3": "ZAF"
     },
@@ -4326,6 +4573,7 @@
         "emojiU": "U+1F1FF U+1F1F2",
         "zh-cn": "赞比亚",
         "en": "Zambia",
+        "zh-hant": "贊比亞",
         "alpha2": "ZM",
         "alpha3": "ZMB"
     },
@@ -4345,6 +4593,7 @@
         "emojiU": "U+1F1FF U+1F1FC",
         "zh-cn": "津巴布韦",
         "en": "Zimbabwe",
+        "zh-hant": "津巴布韋",
         "alpha2": "ZW",
         "alpha3": "ZWE"
     }
